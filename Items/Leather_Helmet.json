@@ -1,0 +1,15 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Leather Helmet"}],
+    "Display_Name":"<white>Leather Helmet",
+    "Rarity":1,
+    "Class":"Armor",
+    "Type":"Helmet",
+    "Traits": ["Traitless"],
+    "Stats": [
+        {
+            "DEF":6
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false
+}
