@@ -1,6 +1,6 @@
 {
     "Item":[{"Vanilla":true,"ID":"Leather Helmet"}],
-    "Display_Name":"<white>Leather Helmet",
+    "Display_Name":"<white>Leather Helmet {@traitless}",
     "Rarity":1,
     "Class":"Armor",
     "Type":"Helmet",

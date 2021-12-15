@@ -5,8 +5,7 @@
     "Class":"Item",
     "Type":"Item",
     "Traits": ["NULL"],
-    "Lore": [
-    ],
+    "Lore": [],
     "isReforgeable":false,
     "Glow":false
 }
