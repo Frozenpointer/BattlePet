@@ -1,0 +1,53 @@
+{
+    "Item":[
+        {
+            "Vanilla":false,
+            "ID":"1883278579,1778532824,-2002520879,-1141378628",
+            "Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmEzNWMwMmUzZjAzNWNkNjU4NmM0MjkzODA2NWZkYzEyNDFkMGVmODgzOGU2ZTkwMWUxNDZlYTZiNmYwYmZmZSJ9fX0="
+        }
+    ],
+    "Display_Name":"<light cyan>Sheep {@nature}",
+    "PetID":"Sheep",
+    "Rarity":3,
+    "Class":"Pet",
+    "Type":"Pet",
+    "Traits": ["Nature"],
+    "Stats": [
+        {
+            "Int":50
+        }
+    ],
+    "AbilityCount":2,
+    "Abilities": [
+        {
+            "ID":"Ultra_Baa",
+            "AbilityName":"Ultra Baa",
+            "Trigger":2,
+            "Damage":175,
+            "Cooldown":7,
+            "Mana_Cost":40,
+            "Soul_Cost":0,
+            "Intelligence_Scaling":0.2,
+            "Description": [
+                "&6Pet Ability: Ultra Baa &e&lRIGHT CLICK",
+                "Let lose an extremely loud baa,",
+                "dealing &c{Damage} &cDamage &7to enemies",
+                "in a cone directly in front of you!",
+                "&8Lvl 2 Knockback {@Knockback}",
+                "&ePiercing {@Piercing}"
+            ],
+            "Effects":"Knockback-100-2"
+        },
+        {
+            "ID":"Big_Brain",
+            "Trigger":0,
+            "Description": [
+                "&6Pet Ability: Big Brain &e&lPASSIVE", 
+                "Your sheep's smarts rubs off on",
+                "you, granting you &b50 Intelligence"
+            ]
+        }
+    ],
+    "isReforgeable":false,
+    "Glow":false
+}

@@ -1,0 +1,17 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Leather Chestplate"}],
+    "Display_Name":"<white>Wool Tunic {@nature}",
+    "Rarity":1,
+    "Class":"Armor",
+    "Type":"Chestplate",
+    "Color":"DDDDDD",
+    "Traits": ["Nature"],
+    "Stats": [
+        {
+            "HP":16,  
+            "DEF":16
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false
+}

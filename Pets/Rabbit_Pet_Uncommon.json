@@ -1,0 +1,32 @@
+{
+    "Item":[
+        {
+            "Vanilla":false,
+            "ID":"975077975,-551534307,-1683207125,-1357599281",
+            "Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDIwYmFiODU1YjNkNzVkZjU1MDhjNDdkMjczYmYzMTBlYzAyZDVjNmQ3Y2E4MDVlOTUwMGQ4MDMzODc3NmY0YiJ9fX0="
+        }
+    ],
+    "Display_Name":"<lime>Bunny {@nature}",
+    "PetID":"Bunny",
+    "Rarity":2,
+    "Class":"Pet",
+    "Type":"Pet",
+    "Traits": ["Nature"],
+    "AbilityCount":1,
+    "Abilities": [
+        {
+            "ID":"Hop",
+            "Trigger":2,
+            "Cooldown":5,
+            "Mana_Cost":40,
+            "Soul_Cost":0,
+            "Description": [
+                "&6Pet Ability: Hop &e&lRIGHT CLICK",
+                "&7Propel yourself forwards and upwards",
+                "&7in the direction you're facing."
+            ]
+        }
+    ],
+    "isReforgeable":false,
+    "Glow":false
+}

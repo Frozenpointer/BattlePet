@@ -1,0 +1,15 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Leather Chestplate"}],
+    "Display_Name":"<white>Leather Chestplate {@traitless}",
+    "Rarity":1,
+    "Class":"Armor",
+    "Type":"Chestplate",
+    "Traits": ["Traitless"],
+    "Stats": [
+        {
+            "DEF":10
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false
+}

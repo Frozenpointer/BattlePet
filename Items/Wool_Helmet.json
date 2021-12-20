@@ -1,0 +1,17 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Leather Helmet"}],
+    "Display_Name":"<white>Wool Cap {@nature}",
+    "Rarity":1,
+    "Class":"Armor",
+    "Type":"Helmet",
+    "Color":"DDDDDD",
+    "Traits": ["Nature"],
+    "Stats": [
+        {
+            "HP":10,  
+            "DEF":10
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false
+}

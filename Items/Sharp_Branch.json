@@ -1,0 +1,16 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Stick"}],
+    "Display_Name":"<white>Sharp Branch {@nature}",
+    "Rarity":1,
+    "Class":"Weapon",
+    "Type":"Sword",
+    "Traits": ["Nature"],
+    "Stats": [
+        {
+            "DMG":14,
+            "STR":3
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false
+}
