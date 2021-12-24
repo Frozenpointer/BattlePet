@@ -1,0 +1,58 @@
+{
+    "Item":[
+        {
+            "Vanilla":true,
+            "ID":"Zombie Head"
+        }
+    ],
+    "Display_Name":"<purple>Zombie {@traitless}",
+    "PetID":"Zombie",
+    "Rarity":4,
+    "Class":"Pet",
+    "Type":"Pet",
+    "Traits": ["Traitless"],
+    "Stats": [
+        {
+            "STR":75
+        }
+    ],
+    "AbilityCount":3,
+    "Abilities": [
+        {
+            "ID":"Undead",
+            "Trigger":0,
+            "Description": [
+                "&6Pet Ability: Undead &e&lPASSIVE",
+                "Your zombie pet grants you",
+                "&675 Strength &7to help you"
+            ]
+        },
+        {
+            "ID":"Slow_Burn",
+            "AbilityName":"Slow Burn",
+            "Trigger":2,
+            "Cooldown":30,
+            "Mana_Cost":70,
+            "Soul_Cost":0,
+            "Description": [
+                "&6Pet Ability: Slow Burn &e&lRIGHT CLICK",
+                "Your zombie pet infuses a {@traitless} &7weapon",
+                "with the zombie virus, infecting the",
+                "next enemy hit with your weapon",
+                "&b5s Slow {@Slow}",
+                "&3Strong {@Strong} against &cBlood {@blood}"
+            ]
+        },
+        {
+            "ID":"Quick_Heal",
+            "Trigger":0,
+            "Description": [
+                "&6Pet Ability: Quick Heal &e&lPASSIVE",
+                "Increases the rate of natural",
+                "health regeneration by &a10%%"
+            ]  
+        } 
+    ],
+    "isReforgeable":false,
+    "Glow":false
+}

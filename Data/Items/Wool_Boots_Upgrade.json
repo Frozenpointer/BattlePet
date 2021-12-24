@@ -1,0 +1,17 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Leather Boots"}],
+    "Display_Name":"<lime>☤ Wool Boots {@nature}",
+    "Rarity":2,
+    "Class":"Armor",
+    "Type":"Boots",
+    "Color":"EEEEEE",
+    "Traits": ["Nature"],
+    "Stats": [
+        {
+            "HP":16,  
+            "DEF":16
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false
+}

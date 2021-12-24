@@ -1,0 +1,11 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Feather"}],
+    "Display_Name":"<white>Feather",
+    "Rarity":1,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [],
+    "isReforgeable":false,
+    "Glow":false
+}

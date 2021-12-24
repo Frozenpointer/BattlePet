@@ -1,0 +1,52 @@
+{
+    "Item":[
+        {
+            "Vanilla":"Texture",
+            "ID":"Skeleton_Head"
+        }
+    ],
+    "Display_Name":"<purple>Skeleton {@traitless}",
+    "PetID":"Skeleton",
+    "Rarity":4,
+    "Class":"Pet",
+    "Type":"Pet",
+    "Traits": ["Traitless"],
+    "Stats": [
+        {
+            "CC":4
+        }
+    ],
+    "AbilityCount":1,
+    "Abilities": [
+        {
+            "ID":"Bone_Plating",
+            "Trigger":0,
+            "Description": [
+                "&6Pet Ability: Bone Plating &e&lPASSIVE", 
+                "Your skeleton pet's thick bone plating",
+                "reduces the damage you take from",
+                "most types of arrows by &a20%"
+                
+            ]
+        },
+        {
+            "ID":"Bone_Toss",
+            "Trigger":2,
+            "Damage":300,
+            "Cooldown":30, 
+            "Mana_Cost":100,
+            "Soul_Cost":1,
+            "Intelligence_Scaling":0.25,
+            "Description": [
+                "&6Pet Ability: Deadly Bone &e&lRIGHT CLICK", 
+                "Throw a very heavy bone projectile,",
+                "dealing massive damage on hit.",
+                "&ePiercing {@Piercing}",
+                "&cMassive Damage {@Massive_Damage} &cto &aNature {@nature}"
+            ]
+        }
+
+    ],
+    "isReforgeable":false,
+    "Glow":false
+}

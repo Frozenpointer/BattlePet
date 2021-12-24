@@ -1,0 +1,39 @@
+{
+    "Item":[
+        {
+            "Vanilla":false,
+            "ID":"-288171773,-902673209,-1287927237,-605975132",
+            "Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjQyNTQ4MzhjMzNlYTIyN2ZmY2EyMjNkZGRhYWJmZTBiMDIxNWY3MGRhNjQ5ZTk0NDQ3N2Y0NDM3MGNhNjk1MiJ9fX0="
+        }
+    ],
+    "Display_Name":"<lime>Creeper {@traitless}",
+    "PetID":"Creeper",
+    "Rarity":2,
+    "Class":"Pet",
+    "Type":"Pet",
+    "Traits": ["Traitless"],
+    "AbilityCount":1,
+    "Abilities": [
+        {
+            "ID":"Sulfur_Bomb",
+            "AbilityName":"Sulfur Bomb",
+            "Trigger":2,
+            "Damage":90,
+            "Intelligence_Scaling":0.3,
+            "Cooldown":1,
+            "Mana_Cost":30,
+            "Soul_Cost":0,
+            "Description": [
+                "&6Pet Ability: Sulfur Bomb &e&lRIGHT CLICK",
+                "&7Shoot out a small piece of sulfur",
+                "&7which explodes on impact, dealing",
+                "&c{Damage} &cDamage &7in a very small radius",
+                "&f10% 1s Freeze {@Freeze}",
+                "&3Strong {@Strong} against &aNature {@nature}"
+            ],
+            "Effects":"Freeze-10-1,Strong-Nature"
+        }
+    ],
+    "isReforgeable":false,
+    "Glow":false
+}

@@ -1,0 +1,35 @@
+{
+    "Item":[
+        {
+            "Vanilla":"Texture",
+            "ID":"Skeleton_Head"
+        }
+    ],
+    "Display_Name":"<lime>Skeleton {@traitless}",
+    "PetID":"Skeleton",
+    "Rarity":2,
+    "Class":"Pet",
+    "Type":"Pet",
+    "Traits": ["Traitless"],
+    "Stats": [
+        {
+            "CC":2
+        }
+    ],
+    "AbilityCount":1,
+    "Abilities": [
+        {
+            "ID":"Bone_Plating",
+            "Trigger":0,
+            "Description": [
+                "&6Pet Ability: Bone Plating &e&lPASSIVE", 
+                "Your skeleton pet's thick bone plating",
+                "reduces the damage you take from",
+                "most types of arrows by &a10%"
+                
+            ]
+        }
+    ],
+    "isReforgeable":false,
+    "Glow":false
+}

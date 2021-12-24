@@ -1,0 +1,68 @@
+{
+    "Item":[
+        {
+            "Vanilla":false,
+            "ID":"-288171773,-902673209,-1287927237,-605975132",
+            "Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjQyNTQ4MzhjMzNlYTIyN2ZmY2EyMjNkZGRhYWJmZTBiMDIxNWY3MGRhNjQ5ZTk0NDQ3N2Y0NDM3MGNhNjk1MiJ9fX0="
+        }
+    ],
+    "Display_Name":"<orange>Spider {@traitless}",
+    "PetID":"Spider",
+    "Rarity":5,
+    "Class":"Pet",
+    "Type":"Pet",
+    "Traits": ["Traitless"],
+    "Stats": [
+        {
+            "CC":5
+        }
+    ],
+    "AbilityCount":3,
+    "Abilities": [
+        {
+            "ID":"Nest",
+            "AbilityName":"Nest",
+            "Trigger":2,
+            "Cooldown":40,
+            "Mana_Cost":100,
+            "Soul_Cost":0,
+            "Description": [
+                "&6Pet Ability: Nest &e&lRIGHT CLICK",
+                "Your spider creates a temporary",
+                "nest at your location, which heals",
+                "you by &c200 + 25% Health &7over",
+                "&a5 seconds&7. Getting attacked",
+                "destroys the nest. Beware!",
+                "&dHealing {@Healing}"
+            ]
+        },
+        {
+            "ID":"Poisonous_Bite",
+            "AbilityName":"Poisonous Bite",
+            "Trigger":1,
+            "Cooldown":30,
+            "Mana_Cost":50,
+            "Soul_Cost":0,
+            "Description": [
+                "&6Pet Ability: Poisonous Bite &e&lLEFT CLICK",
+                "Your spider pet infuses a {@traitless} &7weapon",
+                "with venom, causing it to apply venom",
+                "to an enemy hit by your weapon",
+                "&c15s 40% Weaken {@Weaken}"
+            ]
+        },
+        {
+            "ID":"Eight_Eyes",
+            "Trigger":0,
+            "Description": [
+                "&6Pet Ability: Eight Eyes &e&lPASSIVE", 
+                "Your spider pet's eight eyes grants",
+                "you increased accuracy, giving you",
+                "&95 Crit Chance &7as well as bonus",
+                "&9Night Vision"
+            ]
+        }
+    ],
+    "isReforgeable":false,
+    "Glow":false
+}

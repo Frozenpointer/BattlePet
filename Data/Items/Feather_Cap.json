@@ -1,0 +1,19 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Leather Helmet"}],
+    "Display_Name":"<white>Feathered Cap {@nature}",
+    "Rarity":1,
+    "Class":"Armor",
+    "Type":"Helmet",
+    "Color":"EEEEEE",
+    "Traits": ["Nature"],
+    "Stats": [
+        {
+            "HP":15,
+            "DEF":3,
+            "SPEED":3,
+            "INT":30
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false
+}
