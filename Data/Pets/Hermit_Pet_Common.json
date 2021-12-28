@@ -1,0 +1,41 @@
+{
+    "Item":[
+        {
+            "Vanilla":false,
+            "ID":"1883278579,1778532824,-2002520879,-1141378628",
+            "Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTg1ZTY4MzRhNGJmMjZhNjUyNmY3Y2FjNGY2ZWFhOWY3ZmE3N2RiOGMxNDM1M2E4MTU4MmI1ZjY5OSJ9fX0="
+        }
+    ],
+    "Display_Name":"<white>Hermit {@nature}",
+    "PetID":"Hermit",
+    "Rarity":1,
+    "Class":"Pet",
+    "Type":"Pet",
+    "Traits": ["Nature"],
+    "Stats": [
+        {
+            "DEF":45,
+            "HP":75
+        }
+    ],
+    "AbilityCount":1,
+    "Abilities": [
+        {
+            "ID":"Deep_Thoughts",
+            "AbilityName":"Deep Thoughts",
+            "Trigger":2,
+            "Damage":0,
+            "Cooldown":20,
+            "Mana_Cost":15,
+            "Soul_Cost":0,
+            "Description": [
+                "&6Pet Ability: Deep Thoughts &e&lSNEAK",
+                "&7Your hermit emits deep thoughts,",
+                "&7preventing all mobs around you",
+                "&7from moving."
+            ]
+        }
+    ],
+    "isReforgeable":false,
+    "Glow":false
+}

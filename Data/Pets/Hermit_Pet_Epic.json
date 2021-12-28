@@ -1,0 +1,55 @@
+{
+    "Item":[
+        {
+            "Vanilla":false,
+            "ID":"1883278579,1778532824,-2002520879,-1141378628",
+            "Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTg1ZTY4MzRhNGJmMjZhNjUyNmY3Y2FjNGY2ZWFhOWY3ZmE3N2RiOGMxNDM1M2E4MTU4MmI1ZjY5OSJ9fX0="
+        }
+    ],
+    "Display_Name":"<purple>Hermit {@nature}",
+    "PetID":"Hermit",
+    "Rarity":4,
+    "Class":"Pet",
+    "Type":"Pet",
+    "Traits": ["Nature"],
+    "Stats": [
+        {
+            "DEF":180,
+            "HP":250
+        }
+    ],
+    "AbilityCount":2,
+    "Abilities": [
+        {
+            "ID":"Deep_Thoughts",
+            "AbilityName":"Deep Thoughts",
+            "Trigger":2,
+            "Damage":0,
+            "Cooldown":15,
+            "Mana_Cost":10,
+            "Soul_Cost":0,
+            "Description": [
+                "&6Pet Ability: Deep Thoughts &e&lSNEAK",
+                "&7Your hermit emits deep thoughts,",
+                "&7preventing all mobs around you",
+                "&7from moving."
+            ]
+        },
+        {
+            "ID":"Hermit_Healing",
+            "AbilityName":"Hermit Healing",
+            "Trigger":0,
+            "Damage":0,
+            "Cooldown":10,
+            "Mana_Cost":40,
+            "Soul_Cost":0,
+            "Description": [
+                "&6Pet Ability: Hermits Healing &e&lSNEAK",
+                "&7While sneaking you will heal 10 hp per",
+                "&7second but will be frozen in place."
+            ]
+        }
+    ],
+    "isReforgeable":false,
+    "Glow":false
+}
