@@ -1,0 +1,14 @@
+{
+    "Item":[{"Vanilla":true,"ID":"White Dye"}],
+    "Display_Name":"<lime>Moonstone",
+    "Rarity":2,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [
+        "An uncommon piece of moonstone",
+        "dug up in ancient times"
+    ],
+    "isReforgeable":false,
+    "Glow":true
+}

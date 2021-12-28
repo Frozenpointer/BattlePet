@@ -1,0 +1,12 @@
+{
+    "Entity_Type":"Horse",
+    "Display_Name":"&aHorse {@nature}",
+    "Level":1,
+    "Traits":["Nature"],
+    "Stats":[{"Health":100}],
+    "Equipment": [{}],
+    "Drops": [
+        {"ID":"Leather", "Chance":100, "Amount":[1, 3]}, 
+        {"ID":"Horse_Boots", "Chance":1, "Amount":[1]}
+    ]
+}

@@ -1,5 +1,5 @@
 {
     "ID": "Soul_Gem",
-    "Amount": 1,
-    "Items": [{"Soul":10}]
+    "Amount":1,
+    "Items": [{"ID":"Soul","Amount":10}]
 }

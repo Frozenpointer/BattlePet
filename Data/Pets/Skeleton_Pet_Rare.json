@@ -16,7 +16,7 @@
             "CC":3
         }
     ],
-    "AbilityCount":1,
+    "AbilityCount":2,
     "Abilities": [
         {
             "ID":"Bone_Plating",

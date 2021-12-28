@@ -1,0 +1,43 @@
+{
+    "Item":[
+        {
+            "Vanilla":false,
+            "ID":"671651709,-1787915533,1252540749,87313448",
+            "Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTI3MzFiOWI3YmFkZjM5ZTE1NGRmODdjNDQ0ZjQxNWQ1NTk4YmRjZmE3NDA4YzZmNjhkMGVkZWY1MGI2MzU4OSJ9fX0="
+        }
+    ],
+    "Display_Name":"<indigo>Marimo {@nature}",
+    "PetID":"Marimo",
+    "Rarity":3,
+    "Class":"Pet",
+    "Type":"Pet",
+    "Traits": ["Nature"],
+    "Stats": [
+        {
+            "STR":30
+        }
+    ],
+    "AbilityCount":1,
+    "Abilities": [
+        {
+            "ID":"Herbicide",
+            "AbilityName":"Herbicide",
+            "Trigger":2,
+            "Cooldown":15,
+            "Mana_Cost":50,
+            "Soul_Cost":0,
+            "Description": [
+                "&6Pet Ability: Herbicide &e&lRIGHT CLICK",
+                "Your marimo pet infuses a {@nature} &7weapon",
+                "with a algae-borne herbicide, making the",
+                "next melee strike highly toxic to plants",
+                "&bTarget {@Target} &a[{@nature}]",
+                "&c15s Anti Healing {@Anti_Healing}",
+                "&3Strong {@Strong} against &aNature {@nature}"
+            ],
+            "Effects":"Anti_Healing-100-15"
+        } 
+    ],
+    "isReforgeable":false,
+    "Glow":false
+}

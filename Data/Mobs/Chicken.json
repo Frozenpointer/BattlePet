@@ -5,8 +5,7 @@
     "Traits":["Nature"],
     "Stats":[{"Health":10}],
     "Equipment": [{}],
-    "Drops": [
-        {"ID":"Raw_Chicken", "Chance":100, "Amount":[1, 3]}, 
+    "Drops": [ 
         {"ID":"Feather", "Chance":100, "Amount":[1, 3]}, 
         {"ID":"Chicken_Pet_Common", "Chance":2, "Amount":[1]},
         {"ID":"Chicken_Pet_Uncommon", "Chance":1, "Amount":[1]},

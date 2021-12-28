@@ -1,3 +1,19 @@
 {
-    "Grim_Reaper":["Soul_Gem"]
+    "NPC": [
+        {
+            "ID":"Soul_Eater",
+            "Title":"&8Soul Eater",
+            "Trades":["Soul_Gem"]
+        },
+        {
+            "ID":"Refiner",
+            "Title":"Refiner",
+            "Trades":["Enchanted_Wool","Enchanted_Raw_Mutton","Enchanted_Leather","Enchanted_Rabbit_Hide","Enchanted_Feather","Enchanted_Gunpowder","Enchanted_String","Enchanted_Spider_Eye","Enchanted_Rotten_Flesh"]
+        },
+        {
+            "ID":"Armorsmith",
+            "Title":"&7Armorsmith",
+            "Trades":["Villager_Chestplate","Villager_Leggings","Leather_Helmet","Leather_Chestplate","Leather_Leggings","Leather_Boots","Feather_Cap","Bunny_Boots","Pork_Leggings","Wool_Helmet","Wool_Chestplate","Wool_Leggings","Wool_Boots","Wool_Helmet_Upgrade","Wool_Chestplate_Upgrade","Wool_Leggings_Upgrade","Wool_Boots_Upgrade"]
+        }
+    ]
 }

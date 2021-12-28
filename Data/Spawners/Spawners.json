@@ -1,3 +1,18 @@
 {
-    
+    "Spawners":[
+        {
+            "Location":"31.5,51.5,-142.5",
+            "EntityIDs":["Leaf_Sheep"],
+            "Radius":10,
+            "YRadius":0,
+            "Quantity":7
+        },
+        {
+            "Location":"-1.5,51.5,-101.5",
+            "EntityIDs":["Sheep","Cow","Pig","Chicken","Rabbit"],
+            "Radius":45,
+            "YRadius":1,
+            "Quantity":20
+        }
+    ]
 }

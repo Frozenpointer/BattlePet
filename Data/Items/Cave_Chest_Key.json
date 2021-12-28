@@ -1,0 +1,14 @@
+{
+    "Item":[{"Vanilla":true,"ID":"tripwire hook"}],
+    "Display_Name":"<lime>Caves Key",
+    "Rarity":2,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [
+        "A mysterious key used to",
+        "unlock &aCave Chests"
+    ],
+    "isReforgeable":false,
+    "Glow":true
+}

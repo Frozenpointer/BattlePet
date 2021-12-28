@@ -45,10 +45,11 @@
                 "&6Pet Ability: Back Kick &e&lLEFT CLICK",
                 "&7Utilise your hind-legs to kick all",
                 "&7enemies behind you, dealing &c{Damage} &cDamage",
+                "&bTarget {@Target} &f[{@traitless}]",
                 "&b40% 3s Slow {@Slow}",
                 "&b20% Lvl 1 Mini-Wave {@Mini_Wave}"
             ],
-            "Effects":"Slow-40-3",
+            "Effects":"Slow-40-3,Target-Traitless",
             "SpecialEffects":"Mini_Wave-20-1"
         },
         {

@@ -1,0 +1,23 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Vine"}],
+    "Display_Name":"<purple>Vine Of Ruin {@nature}",
+    "Rarity":4,
+    "Class":"Weapon",
+    "Type":"Sword",
+    "Traits": ["Nature"],
+    "Stats": [
+        {
+            "DMG":100,
+            "STR":10,
+            "CD":10
+        }
+    ],
+    "Lore": [
+        "An ancient weapon forged",
+        "from Snake Vines obtained",
+        "from the Vine Monstrosity"
+    ],
+    "isReforgeable":true,
+    "Glow":true,
+    "Series":2
+}

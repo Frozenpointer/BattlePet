@@ -1,0 +1,14 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Blue Dye"}],
+    "Display_Name":"<indigo>Sapphire",
+    "Rarity":3,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [
+        "An rare piece of sapphire",
+        "found deep underground"
+    ],
+    "isReforgeable":false,
+    "Glow":true
+}

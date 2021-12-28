@@ -1,0 +1,14 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Orange Dye"}],
+    "Display_Name":"<purple>Topaz",
+    "Rarity":4,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [
+        "An epic piece of topaz",
+        "found deep underground"
+    ],
+    "isReforgeable":false,
+    "Glow":true
+}

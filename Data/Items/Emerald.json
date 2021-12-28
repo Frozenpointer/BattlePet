@@ -1,0 +1,16 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Emerald"}],
+    "Display_Name":"<lime>Emerald",
+    "Rarity":2,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [
+        "A rare gem greatly prized",
+        "by villagers! Perhaps it",
+        "could be used to obtain",
+        "special villager themed items?"
+    ],
+    "isReforgeable":false,
+    "Glow":true
+}

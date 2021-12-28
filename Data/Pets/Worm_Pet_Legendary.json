@@ -1,0 +1,67 @@
+{
+    "Item":[
+        {
+            "Vanilla":"false",
+            "ID":"-855636279,1125206364,-1080706921,-326321460",
+            "Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGYwM2FkOTYwOTJmM2Y3ODk5MDI0MzY3MDljZGY2OWRlNmI3MjdjMTIxYjNjMmRhZWY5ZmZhMWNjYWVkMTg2YyJ9fX0="
+        }
+    ],
+    "Display_Name":"<orange>Worm {@traitless}",
+    "PetID":"Worm",
+    "Rarity":5,
+    "Class":"Pet",
+    "Type":"Pet",
+    "Traits": ["Traitless"],
+    "Stats": [
+        {
+            "HP":200,
+            "DEF":100
+        }
+    ],
+    "AbilityCount":2,
+    "Abilities": [
+        {
+            "ID":"Burrow",
+            "AbilityName":"Burrow",
+            "Trigger":2,
+            "Damage":500,
+            "Cooldown":20, 
+            "Mana_Cost":200,
+            "Intelligence_Scaling":0.3,
+            "Description": [
+                "&6Pet Ability: Burrow &e&lRIGHT CLICK", 
+                "Your worm pet takes a leap and",
+                "burrows into the ground, creating", 
+                "a seismic wave, dealing &c{Damage} &cDamage", 
+                "to enemies caught in it.",
+                "&8Lvl 2 Knockback {@Knockback}",
+                "&b75% Lvl 2 Mini Wave {@Mini_Wave}"
+            ],
+            "Effects":"Knockback-100-2",
+            "SpecialEffects":"Mini_Wave-75-2"
+        },
+        {
+            "ID":"Thick_Plating",
+            "Trigger":0,
+            "Description": [
+                "&6Pet Ability: Thick Plating &e&lPASSIVE",
+                "Your worm's armor plating protects",
+                "you from damage, granting you",
+                "an extra &a100 Defense"
+            ]
+        },
+        {
+            "ID":"Regrow",
+            "Trigger":0,
+            "Description": [
+                "&6Pet Ability: Regrow &e&lPASSIVE",
+                "Your worm confers some of its",
+                "regenerative abilities to you",
+                "increasing your regeneration by",
+                "&a10% &7and giving you &c200 Health"
+            ]
+        }
+    ],
+    "isReforgeable":false,
+    "Glow":false
+}

@@ -1,0 +1,11 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Rotten Flesh"}],
+    "Display_Name":"<white>Rotten Flesh",
+    "Rarity":1,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [],
+    "isReforgeable":false,
+    "Glow":false
+}

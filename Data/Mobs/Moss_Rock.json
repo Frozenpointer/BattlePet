@@ -1,0 +1,22 @@
+{
+    "Entity_Type":"Zombie",
+    "Display_Name":"&2Moss Rock {@nature}",
+    "Level":10,
+    "Traits":["Nature"],
+    "Stats":[{"Health":1000,"Damage":70,"Speed":-2}],
+    "Equipment": [
+        {
+            "HELMET": [{
+                "ITEM":"Head", 
+                "ID":"1088065575,629972501,-2021655949,-839832446", 
+                "Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzY0ZjMwZTViOWYyZGQyMDkyZmE5MTk1MzExNDkxMmU4NmY0MjJlNDYwNzhkOTMzYTNjYzVjOTE3YWIyZWQ5MCJ9fX0="
+            }]
+        }
+    ],
+    "Invisible":true,
+    "Dinnerbone":true,
+    "Silent":true,
+    "Drops": [
+        {"ID":"Club_Moss", "Chance":100, "Amount":[1, 2]}
+    ]
+}

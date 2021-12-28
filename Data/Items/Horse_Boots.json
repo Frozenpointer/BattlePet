@@ -1,0 +1,18 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Leather Boots"}],
+    "Display_Name":"<white>Horse Hooves {@nature}",
+    "Rarity":1,
+    "Class":"Armor",
+    "Type":"Boots",
+    "Color":"FFFF00",
+    "Traits": ["Nature"],
+    "Stats": [
+        {
+            "HP":10,
+            "SPEED":10
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false,
+    "Series":1
+}

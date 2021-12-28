@@ -1,0 +1,5 @@
+{
+    "ID": "Zombie_Sword",
+    "Amount":1,
+    "Items": [{"ID":"Stick","Amount":1},{"ID":"Rotten_Flesh","Amount":16}]
+}

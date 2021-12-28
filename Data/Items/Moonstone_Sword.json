@@ -1,0 +1,18 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Iron Sword"}],
+    "Display_Name":"<lime>Moonstone Sword {@ice}",
+    "Rarity":2,
+    "Class":"Weapon",
+    "Type":"Sword",
+    "Traits": ["Ice"],
+    "Stats": [
+        {
+            "DMG":30,
+            "STR":10,
+            "CC":3
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false,
+    "Series":2
+}

@@ -1,0 +1,9 @@
+{
+    "Item":[{"Vanilla":false,"ID":"-364280010,2080001923,-1418624310,-860531239","Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWE0Yjc4YThiYWYzOGFhOTdjMWI1ODcwNjgzMGVkOGRkYTRmNzc5MWQ4NmZiNTNhOGY2MWRhNTRhMjQzMWExIn19fQ=="}],
+    "Display_Name":"<white>Club Moss",
+    "Rarity":1,
+    "Class":"Item",
+    "Type":"Item",
+    "isReforgeable":true,
+    "Glow":false
+}

@@ -1,0 +1,24 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Leather_Chestplate"}],
+    "Display_Name":"<indigo>Fairy Wings {@magical}",
+    "Rarity":3,
+    "Class":"Armor",
+    "Type":"Chestplate",
+    "Color":"FF4162",
+    "Traits": ["Magical"],
+    "Stats": [
+        {
+            "HP":1,
+            "DEF":1,
+            "STR":1,
+            "INT":50,
+            "SPEED":5,
+            "AS":1,
+            "MAGICFIND":1
+
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false,
+    "Series":1
+}

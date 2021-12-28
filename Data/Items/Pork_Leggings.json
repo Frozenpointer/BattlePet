@@ -1,0 +1,19 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Leather Leggings"}],
+    "Display_Name":"<lime>Pork Leggings {@nature}",
+    "Rarity":2,
+    "Class":"Armor",
+    "Type":"Leggings",
+    "Traits": ["Nature"],
+    "Color":"FF00FF",
+    "Stats": [
+        {
+            "HP":30,
+            "DEF":15,
+            "CC":2
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false,
+    "Series":1
+}

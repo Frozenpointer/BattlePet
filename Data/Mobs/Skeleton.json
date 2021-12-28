@@ -1,0 +1,21 @@
+{
+    "Entity_Type":"Skeleton",
+    "Display_Name":"&cSkeleton {@traitless}",
+    "Level":5,
+    "Traits":["Traitless"],
+    "Stats":[{"Health":150,"Damage":20}],
+    "Equipment": [
+        {
+            "HELMET": [{"ITEM":"Iron Helmet"}],
+            "WEAPON": [{"ITEM":"Wooden Sword"}]
+            }
+        ],
+    "Drops": [
+        {"ID":"Bone", "Chance":100, "Amount":[1, 3]}, 
+        {"ID":"Skeleton_Pet_Common", "Chance":2, "Amount":[1]},
+        {"ID":"Skeleton_Pet_Uncommon", "Chance":1, "Amount":[1]},
+        {"ID":"Skeleton_Pet_Rare", "Chance":0.5, "Amount":[1]},
+        {"ID":"Skeleton_Pet_Epic", "Chance":0.1, "Amount":[1]},
+        {"ID":"Skeleton_Pet_Legendary", "Chance":0.01, "Amount":[1]}
+    ]
+}
