@@ -15,5 +15,6 @@
         }
     ],
     "isReforgeable":true,
-    "Glow":false
+    "Glow":false,
+    "Series":1
 }

@@ -1,0 +1,11 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Rabbit Foot"}],
+    "Display_Name":"<white>Rabbit Foot",
+    "Rarity":1,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [],
+    "isReforgeable":false,
+    "Glow":false
+}

@@ -28,10 +28,11 @@
                 "&7Shoot out a small piece of sulfur",
                 "&7which explodes on impact, dealing",
                 "&c{Damage} &cDamage &7in a very small radius",
+                "&bTarget {@Target} &a[{@nature}]",
                 "&f10% 1s Freeze {@Freeze}",
                 "&3Strong {@Strong} against &aNature {@nature}"
             ],
-            "Effects":"Freeze-10-1,Strong-Nature"
+            "Effects":"Freeze-10-1,Strong-Nature,Target-Nature"
         }
     ],
     "isReforgeable":false,

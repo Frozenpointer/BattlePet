@@ -7,11 +7,11 @@
     "Function":"Plains_Guardian",
     "Equipment": [
         {
-            "HELMET": [{"ITEM":"Leather Helmet","Color":"AADDAA"}],
+            "HELMET": [{"ITEM":"Leather Helmet","Color":"AAFFAA"}],
             "WEAPON": [{"ITEM":"Bone"}]
             }
         ],
     "Drops": [
-        {"ID":"Plains_Chest_Key", "Chance":100, "Amount":[1]}
+        {"ID":"Plains_Chest_Key", "Chance":100, "Amount":[1, 2]}
     ]
 }

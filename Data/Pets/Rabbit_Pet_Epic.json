@@ -40,9 +40,10 @@
                 "&6Pet Ability: Back Kick &e&lLEFT CLICK",
                 "&7Utilise your hind-legs to kick all",
                 "&7enemies behind you, dealing &c{Damage} &cDamage",
+                "&bTarget {@Target} &f[{@traitless}]",
                 "&b40% 3s Slow {@Slow}"
             ],
-            "Effects":"Slow-20-3"
+            "Effects":"Slow-20-3,Target-Traitless"
         }
     ],
     "isReforgeable":false,

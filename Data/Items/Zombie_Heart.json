@@ -1,0 +1,17 @@
+{
+    "Item":[{"Vanilla":false,"ID":"1275683968,1255558020,-1180031804,-266380137","Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzFkN2M4MTZmYzhjNjM2ZDdmNTBhOTNhMGJhN2FhZWZmMDZjOTZhNTYxNjQ1ZTllYjFiZWYzOTE2NTVjNTMxIn19fQ=="}],
+    "Display_Name":"<indigo>Zombie Heart {@traitless}",
+    "Rarity":3,
+    "Class":"Armor",
+    "Type":"Helmet",
+    "Traits": ["Traitless"],
+    "Stats": [
+        {
+            "HP":150,
+            "INT":50
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false,
+    "Series":2
+}

@@ -1,0 +1,19 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Leather Chestplate"}],
+    "Display_Name":"<white>Bone Chestplate {@traitless}",
+    "Rarity":1,
+    "Class":"Armor",
+    "Type":"Chestplate",
+    "Traits": ["Traitless"],
+    "Color":"DDDDDD",
+    "Stats": [
+        {
+            "DEF":75,
+            "CD":10,
+            "SPEED":-5
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false,
+    "Series":2
+}

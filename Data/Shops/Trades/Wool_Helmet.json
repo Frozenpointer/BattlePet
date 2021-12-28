@@ -1,5 +1,5 @@
 {
-    "ID": "Sheep_Pet_Common",
-    "Amount": 1,
-    "Items": [{"Sheep_Pet_Epic":5}]
+    "ID": "Wool_Helmet",
+    "Amount":1,
+    "Items": [{"ID":"Wool","Amount":5}]
 }

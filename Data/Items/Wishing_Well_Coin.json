@@ -1,0 +1,15 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Sunflower"}],
+    "Display_Name":"<indigo>Wishing Coin",
+    "Rarity":3,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [
+        "A shiny golden token.",
+        "Perhaps throw it in the",
+        "wishing well?"
+    ],
+    "isReforgeable":false,
+    "Glow":true
+}

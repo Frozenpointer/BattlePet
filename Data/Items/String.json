@@ -1,0 +1,11 @@
+{
+    "Item":[{"Vanilla":true,"ID":"String"}],
+    "Display_Name":"<white>String",
+    "Rarity":1,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [],
+    "isReforgeable":false,
+    "Glow":false
+}

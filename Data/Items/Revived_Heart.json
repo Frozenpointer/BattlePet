@@ -1,0 +1,28 @@
+{
+    "Item":[{"Vanilla":false,"ID":"1826499079,-1612037252,-1157154240,979144616","Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWJiZmVmZTk3ODY0ODY1YTE5YWFhZDBmN2RjNDdiNmMzMTE3OTFiNGMzY2E4MTE1ZWYwN2FkOTlhYjU1NjU3ZCJ9fX0="}],
+    "Display_Name":"<purple>Revived Heart {@traitless}",
+    "Rarity":4,
+    "Class":"Armor",
+    "Type":"Helmet",
+    "Traits": ["Traitless"],
+    "Stats": [
+        {
+            "HP":250,
+            "INT":100
+        }
+    ],
+    "AbilityCount":1,
+    "Abilities": [
+        {
+            "ID":"Healing_Booster",
+            "Trigger":0,
+            "Description": [
+                "&6Item Ability: Healing Booster &e&lPASSIVE",
+                "Increases your healing received by &a10%"
+            ]
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false,
+    "Series":2
+}

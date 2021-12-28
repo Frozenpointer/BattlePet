@@ -18,7 +18,7 @@
             "ID":"Darkness_Clots",
             "AbilityName":"Clots Of Darkness",
             "Trigger":2,
-            "Damage":100,
+            "Damage":300,
             "Cooldown":10,
             "Mana_Cost":66,
             "Soul_Cost":1,
@@ -29,13 +29,15 @@
                 "each one deals &c{Damage} &cDamage &7to enemies",
                 "hit by them. Only the third clot applies",
                 "effects to hit enemies.",
+                "&4Target Only {@Target_Only} &e[{@angel}]",
                 "&f3s Freeze {@Freeze}",
                 "&ePiercing {@Piercing}",
                 "&cMassive Damage {@Massive_Damage} to &eAngels {@angel}"
             ],
-            "Effects":"Freeze-100-3,Massive_Damage-Angel"
+            "Effects":"Freeze-100-3,Target_Only-Angel,Massive_Damage-Angel"
         }
     ],
     "isReforgeable":true,
-    "Glow":false
+    "Glow":false,
+    "Series":1
 }

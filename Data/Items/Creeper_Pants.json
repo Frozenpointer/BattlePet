@@ -1,0 +1,19 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Leather Leggings"}],
+    "Display_Name":"<lime>Creeper Pants {@traitless}",
+    "Rarity":2,
+    "Class":"Armor",
+    "Type":"Leggings",
+    "Traits": ["Traitless"],
+    "Color":"46EB14",
+    "Stats": [
+        {
+            "HP":44,
+            "DEF":44,
+            "SPEED":4
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false,
+    "Series":2
+}

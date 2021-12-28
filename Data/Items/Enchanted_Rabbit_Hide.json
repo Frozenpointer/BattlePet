@@ -1,0 +1,11 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Rabbit Hide"}],
+    "Display_Name":"<lime>Enchanted Rabbit Hide",
+    "Rarity":2,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [],
+    "isReforgeable":false,
+    "Glow":true
+}

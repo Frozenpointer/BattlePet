@@ -1,0 +1,18 @@
+{
+    "Entity_Type":"Spider",
+    "Display_Name":"&cSpider {@traitless}",
+    "Level":5,
+    "Traits":["Traitless"],
+    "Stats":[{"Health":150,"Damage":20}],
+    "Effects":"Slow-20-5",
+    "Equipment": [{}],
+    "Drops": [
+        {"ID":"String", "Chance":100, "Amount":[1, 3]},
+        {"ID":"Spider_Eye", "Chance":20, "Amount":[1, 3]},
+        {"ID":"Spider_Pet_Common", "Chance":2, "Amount":[1]},
+        {"ID":"Spider_Pet_Uncommon", "Chance":1, "Amount":[1]},
+        {"ID":"Spider_Pet_Rare", "Chance":0.5, "Amount":[1]},
+        {"ID":"Spider_Pet_Epic", "Chance":0.1, "Amount":[1]},
+        {"ID":"Spider_Pet_Legendary", "Chance":0.01, "Amount":[1]}
+    ]
+}

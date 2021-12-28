@@ -1,0 +1,14 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Vine"}],
+    "Display_Name":"<purple>Snake Vine",
+    "Rarity":4,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [
+        "A piece of snake vine found",
+        "on the Vine Monstrosity"
+    ],
+    "isReforgeable":false,
+    "Glow":true
+}

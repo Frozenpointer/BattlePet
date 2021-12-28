@@ -1,0 +1,18 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Leather Helmet"}],
+    "Display_Name":"<white>Spider Helmet {@traitless}",
+    "Rarity":1,
+    "Class":"Armor",
+    "Type":"Helmet",
+    "Traits": ["Traitless"],
+    "Color":"090909",
+    "Stats": [
+        {
+            "STR":15,
+            "CD":10
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false,
+    "Series":2
+}

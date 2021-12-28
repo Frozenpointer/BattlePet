@@ -7,11 +7,12 @@
     "Traits": ["Nature"],
     "Stats": [
         {
-            "DMG":20,
+            "DMG":25,
             "STR":5,
-            "CC":2
+            "CC":3
         }
     ],
     "isReforgeable":true,
-    "Glow":false
+    "Glow":false,
+    "Series":1
 }

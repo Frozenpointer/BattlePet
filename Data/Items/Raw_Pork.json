@@ -1,0 +1,11 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Raw Pork"}],
+    "Display_Name":"<white>Raw Pork",
+    "Rarity":1,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [],
+    "isReforgeable":false,
+    "Glow":false
+}

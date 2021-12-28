@@ -1,0 +1,9 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Stick"}],
+    "Display_Name":"<white>Stick",
+    "Rarity":1,
+    "Class":"Item",
+    "Type":"Item",
+    "isReforgeable":false,
+    "Glow":false
+}

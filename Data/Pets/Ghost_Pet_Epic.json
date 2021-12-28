@@ -1,0 +1,46 @@
+{
+    "Item":[
+        {
+            "Vanilla":false,
+            "ID":"-1061943633,1206992957,-1355954278,-1550453126",
+            "Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGZhMTMwMzJmYTkzOWYxODRkYWE2YTRlMTFlNmYzYTkxM2U0OGYyNTA0OTgxNjVjNTY2NWNjZjQ5YzcyYTE0MCJ9fX0="
+        }
+    ],
+    "Display_Name":"<purple>Ghost {@spirit}",
+    "PetID":"Ghost",
+    "Rarity":4,
+    "Class":"Pet",
+    "Type":"Pet",
+    "Traits": ["Spirit"],
+    "Stats": [
+        {
+            "INT":200
+        }
+    ],
+    "AbilityCount":2,
+    "Abilities": [
+        {
+            "ID":"Unfinished_Business",
+            "Trigger":0,
+            "Cooldown":300,
+            "Description": [
+                "&6Pet Ability: Unfinished Business &e&lPASSIVE", 
+                "Your ghost pet revives you on death,",
+                "healing you for &c20% Health &7and",
+                "completely depleting your mana"
+            ]
+        },
+        {
+            "ID":"Ethereal_Intelligence",
+            "Trigger":0,
+            "Description": [
+                "&6Pet Ability: Ethereal Intelligence &e&lPASSIVE",
+                "Your ghost pet provides you some of",
+                "its life experience, increasing your",
+                "&bIntelligence &7by &b200"
+            ]
+        }
+    ],
+    "isReforgeable":false,
+    "Glow":false
+}

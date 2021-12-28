@@ -1,0 +1,11 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Raw Beef"}],
+    "Display_Name":"<white>Raw Beef",
+    "Rarity":1,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [],
+    "isReforgeable":false,
+    "Glow":false
+}

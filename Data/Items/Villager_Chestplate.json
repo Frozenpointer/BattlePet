@@ -1,0 +1,20 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Leather Chestplate"}],
+    "Display_Name":"<lime>Villager Mail {@traitless}",
+    "Rarity":2,
+    "Class":"Armor",
+    "Type":"Chestplate",
+    "Traits": ["Traitless"],
+    "Color":"8E6060",
+    "Stats": [
+        {
+            "HP":20,
+            "DEF":20,
+            "STR":5,
+            "CD":5
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false,
+    "Series":1
+}

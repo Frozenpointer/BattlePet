@@ -1,0 +1,5 @@
+{
+    "ID": "Marimo_Pet_Rare",
+    "Amount":1,
+    "Items": [{"ID":"Marimo_Pet_Uncommon","Amount":1},{"ID":"Club_Moss","Amount":256}]
+}

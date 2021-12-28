@@ -1,0 +1,18 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Iron Chestplate"}],
+    "Display_Name":"<lime>Polished Bone Chestplate {@traitless}",
+    "Rarity":2,
+    "Class":"Armor",
+    "Type":"Chestplate",
+    "Traits": ["Traitless"],
+    "Color":"DDDDDD",
+    "Stats": [
+        {
+            "DEF":100,
+            "CD":10
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false,
+    "Series":2
+}

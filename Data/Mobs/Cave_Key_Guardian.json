@@ -1,0 +1,17 @@
+{
+    "Entity_Type":"Zombie",
+    "Display_Name":"&7Cave Key Guardian {@traitless}",
+    "Level":10,
+    "Traits":["Traitless"],
+    "Stats":[{"Health":2500,"Defense":100,"Damage":30}],
+    "Function":"Cave_Guardian",
+    "Equipment": [
+        {
+            "HELMET": [{"ITEM":"Leather Helmet","Color":"CCCCCC"}],
+            "WEAPON": [{"ITEM":"Bone"}]
+            }
+        ],
+    "Drops": [
+        {"ID":"Cave_Chest_Key", "Chance":100, "Amount":[1, 2]}
+    ]
+}
