@@ -1,0 +1,11 @@
+{
+    "Entity_Type":"Creeper",
+    "Display_Name":"&cCreeper {@traitless}",
+    "Level":5,
+    "Traits":["Traitless"],
+    "Stats":[{"Health":150,"Damage":20}],
+    "Survive":100,
+    "Equipment": [{}],
+    "Drops": [
+    ]
+}

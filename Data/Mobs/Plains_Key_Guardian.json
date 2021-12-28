@@ -1,0 +1,17 @@
+{
+    "Entity_Type":"Zombie",
+    "Display_Name":"&aPlains Key Guardian {@nature}",
+    "Level":5,
+    "Traits":["Nature"],
+    "Stats":[{"Health":1000,"Defense":50,"Damage":10}],
+    "Function":"Plains_Guardian",
+    "Equipment": [
+        {
+            "HELMET": [{"ITEM":"Leather Helmet","Color":"AADDAA"}],
+            "WEAPON": [{"ITEM":"Bone"}]
+            }
+        ],
+    "Drops": [
+        {"ID":"Plains_Chest_Key", "Chance":100, "Amount":[1]}
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Leather Boots"}],
+    "Display_Name":"<white>Bunny Boots {@nature}",
+    "Rarity":1,
+    "Class":"Armor",
+    "Type":"Boots",
+    "Color":"7777FF",
+    "Traits": ["Nature"],
+    "Stats": [
+        {
+            "HP":5,
+            "DEF":5,
+            "SPEED":5,
+            "INT":15
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false
+}

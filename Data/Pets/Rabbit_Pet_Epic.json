@@ -1,0 +1,50 @@
+{
+    "Item":[
+        {
+            "Vanilla":false,
+            "ID":"975077975,-551534307,-1683207125,-1357599281",
+            "Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDIwYmFiODU1YjNkNzVkZjU1MDhjNDdkMjczYmYzMTBlYzAyZDVjNmQ3Y2E4MDVlOTUwMGQ4MDMzODc3NmY0YiJ9fX0="
+        }
+    ],
+    "Display_Name":"<purple>Bunny {@nature}",
+    "PetID":"Bunny",
+    "Rarity":4,
+    "Class":"Pet",
+    "Type":"Pet",
+    "Traits": ["Nature"],
+    "AbilityCount":2,
+    "Abilities": [
+        {
+            "ID":"Hop",
+            "AbilityName":"Hop",
+            "Trigger":2,
+            "Cooldown":5,
+            "Mana_Cost":40,
+            "Soul_Cost":0,
+            "Description": [
+                "&6Pet Ability: Hop &e&lRIGHT CLICK",
+                "&7Propel yourself forwards and upwards",
+                "&7in the direction you're facing."
+            ]
+        },
+        {
+            "ID":"Back_Kick",
+            "AbilityName":"Back Kick",
+            "Trigger":1,
+            "Damage":250,
+            "Intelligence_Scaling":0.3,
+            "Cooldown":15,
+            "Mana_Cost":90,
+            "Soul_Cost":0,
+            "Description": [
+                "&6Pet Ability: Back Kick &e&lLEFT CLICK",
+                "&7Utilise your hind-legs to kick all",
+                "&7enemies behind you, dealing &c{Damage} &cDamage",
+                "&b40% 3s Slow {@Slow}"
+            ],
+            "Effects":"Slow-20-3"
+        }
+    ],
+    "isReforgeable":false,
+    "Glow":false
+}

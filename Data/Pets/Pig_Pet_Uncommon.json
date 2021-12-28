@@ -1,0 +1,31 @@
+{
+    "Item":[
+        {
+            "Vanilla":false,
+            "ID":"1342660670,1108624123,-1294193224,31285599",
+            "Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2I5YjMwM2Q2Yzc5MjU4NWUxYmQwNGQxMzIwODE2YWFmZTQ3ZGI2NzU1YTEzM2MzMWIzY2M3OTQwOTFhMzMwNiJ9fX0="
+        }
+    ],
+    "Display_Name":"<lime>Pig {@nature}",
+    "PetID":"Pig",
+    "Rarity":2,
+    "Class":"Pet",
+    "Type":"Pet",
+    "Traits": ["Nature"],
+    "AbilityCount":1,
+    "Abilities": [
+        {
+            "ID":"Wheat_Smell",
+            "Trigger":0,
+            "Description": [
+                "&6Pet Ability: The Smell Of Wheat &e&lPASSIVE", 
+                "Your pig pet grants you the ability",
+                "to find &aTasty Wheat &7in &aPlains",
+                "chests, which grants &d50 Saturation",
+                "when eaten!"
+            ]
+        }
+    ],
+    "isReforgeable":false,
+    "Glow":false
+}
