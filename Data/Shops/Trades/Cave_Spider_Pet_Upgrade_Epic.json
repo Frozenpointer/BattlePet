@@ -1,0 +1,5 @@
+{
+    "ID": "Cave_Spider_Pet_Epic",
+    "Amount":1,
+    "Items": [{"ID":"Cave_Spider_Pet_Rare","Amount":1},{"ID":"Enchanted_Spider_Eye","Amount":32}]
+}

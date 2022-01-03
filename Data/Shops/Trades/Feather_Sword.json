@@ -1,0 +1,5 @@
+{
+    "ID": "Feather_Sword",
+    "Amount":1,
+    "Items": [{"ID":"Stick","Amount":1},{"ID":"Enchanted_Feather","Amount":2}]
+}

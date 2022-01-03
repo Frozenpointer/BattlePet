@@ -13,5 +13,6 @@
         ],
     "Drops": [
         {"ID":"Cave_Chest_Key", "Chance":100, "Amount":[1, 2]}
-    ]
+    ],
+    "Combat_XP":5
 }

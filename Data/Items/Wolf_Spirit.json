@@ -1,0 +1,14 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Amethyst Shard"}],
+    "Display_Name":"<purple>Wolf Spirit",
+    "Rarity":4,
+    "Class":"Item",
+    "Type":"Item",
+    "Lore": [
+        "An item containing the pack spirit",
+        "of a pack of wolves which once roamed",
+        "the Jungles."
+    ],
+    "isReforgeable":true,
+    "Glow":true
+}

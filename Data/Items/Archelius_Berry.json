@@ -1,0 +1,15 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Sweet Berries"}],
+    "Display_Name":"<indigo>Archelius Berry",
+    "Rarity":3,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [
+        "A mystical fruit that grows",
+        "on a mysterious species of",
+        "trees which gained sentience"
+    ],
+    "isReforgeable":false,
+    "Glow":true
+}

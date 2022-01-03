@@ -1,0 +1,19 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Iron Chestplate"}],
+    "Display_Name":"<indigo>Ivory Reinforced Polished Bone Chestplate {@traitless}",
+    "Rarity":3,
+    "Class":"Armor",
+    "Type":"Chestplate",
+    "Traits": ["Traitless"],
+    "Color":"DDDDDD",
+    "Stats": [
+        {  
+            "HP":25,
+            "DEF":125,
+            "CD":25
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":true,
+    "Series":3
+}

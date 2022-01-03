@@ -1,0 +1,37 @@
+{
+    "Item":[
+        {
+            "Vanilla":false,
+            "ID":"683807840,-508804782,-1548893603,931066416",
+            "Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzM2NzNjZTA3MTllMWQ2NmMwZWM3MDYxZjAzNDc5ODZlZWQ5ZTk1OTgwMzdiODhkMjM3MTZlYTdlZjRhODYzMyJ9fX0="
+        }
+    ],
+    "Display_Name":"<lime>Rhino {@nature}",
+    "PetID":"Rhino",
+    "Rarity":2,
+    "Class":"Pet",
+    "Type":"Pet",
+    "Traits": ["Nature"],
+    "Stats": [
+        {
+            "DEF":75
+        }
+    ],
+    "AbilityCount":1,
+    "Abilities": [
+        {
+            "ID":"Bulk",
+            "AbilityName":"Bulk",
+            "Trigger":0,
+            "Description": [
+                "&6Pet Ability: Massive Bulk &e&lPASSIVE",
+                "Your rhino pets lends you its massive",
+                "bulk to protect you, granting you",
+                "&a75 Defense &7and &c75 Health"
+            ]
+        }
+    ],
+    "isReforgeable":false,
+    "Glow":false,
+    "Combat":12
+}

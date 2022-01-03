@@ -1,0 +1,5 @@
+{
+    "ID": "Fairy_Wings_Upgrade",
+    "Amount":1,
+    "Items": [{"ID":"Fairy_Wings","Amount":1},{"ID":"Fairy_Soul","Amount":5}]
+}

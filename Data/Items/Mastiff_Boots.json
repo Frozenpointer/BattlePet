@@ -1,0 +1,20 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Golden Boots"}],
+    "Display_Name":"<indigo>Mastiff Boots {@blood}",
+    "Rarity":3,
+    "Class":"Armor",
+    "Type":"Boots",
+    "Traits": ["Blood"],
+    "Stats": [
+        {
+            "HP":160,
+            "DEF":-1000,
+            "STR":10,
+            "CD":10,
+            "FERO":2
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false,
+    "Series":3
+}

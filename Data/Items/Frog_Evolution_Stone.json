@@ -1,0 +1,14 @@
+{
+    "Item":[{"Vanilla":false,"ID":"287558082,-1526316849,-1108129496,-1334706215","Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODZmYWFkN2U5OThjNWYzYjgzMzJjYTU1YzkwMTEyMGI5YWUxN2YwMTkzZGQ4ZTAxYTgzY2ZiOTU4MDg0ODMyNSJ9fX0="}],
+    "Display_Name":"<orange>Frog Evolution Stone",
+    "Rarity":5,
+    "Class":"PET EVOLUTION STONE",
+    "Type":"PET EVOLUTION STONE",
+    "Lore": [
+            "A curious artifact that upgrades",
+            "an &5&lEPIC &5Frog &7pet into a",
+            "&6&lLEGENDARY &6Poison Dart Frog&7."
+    ],
+    "isReforgeable":false,
+    "Glow":false
+}

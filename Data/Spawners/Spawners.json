@@ -1,6 +1,14 @@
 {
     "Spawners":[
         {
+            "Location":"37,51,-21",
+            "EntityIDs":["Sheep"],
+            "Radius":4,
+            "YRadius":0,
+            "Quantity":4,
+            "RequiredBlocks":["Grass Block"]
+        },
+        {
             "Location":"31.5,51.5,-142.5",
             "EntityIDs":["Leaf_Sheep"],
             "Radius":10,
@@ -13,6 +21,222 @@
             "Radius":45,
             "YRadius":1,
             "Quantity":20
+        },
+        {
+            "Location":"-102.5,51.5,-102.5",
+            "EntityIDs":["Sheep","Cow","Pig","Chicken","Rabbit"],
+            "Radius":45,
+            "YRadius":0,
+            "Quantity":20
+        },
+        {
+            "Location":"-102.5,51.5,0.5",
+            "EntityIDs":["Leaf_Sheep","Cow","Pig","Chicken","Rabbit"],
+            "Radius":45,
+            "YRadius":0,
+            "Quantity":20
+        },
+        {
+            "Location":"-205.5,51.5,103.5",
+            "EntityIDs":["Leaf_Sheep","Cow","Pig","Chicken","Rabbit"],
+            "Radius":45,
+            "YRadius":0,
+            "Quantity":20
+        },
+        {
+            "Location":"0.5,51.5,-205.5",
+            "EntityIDs":["Leaf_Sheep","Cow","Pig","Chicken","Rabbit"],
+            "Radius":45,
+            "YRadius":0,
+            "Quantity":20
+        },
+        {
+            "Location":"134.5,51.5,-124.5",
+            "EntityIDs":["Plains_Key_Guardian"],
+            "Radius":7,
+            "YRadius":1,
+            "Quantity":1
+        },
+        {
+            "Location":"-225.5,22.5,-210.5",
+            "EntityIDs":["Cave_Key_Guardian"],
+            "Radius":8,
+            "YRadius":1,
+            "Quantity":1
+        },
+        {
+            "Location":"206.5,51.5,0.5",
+            "EntityIDs":["Sheep","Cow","Pig","Chicken","Rabbit"],
+            "Radius":45,
+            "YRadius":0,
+            "Quantity":20
+        },
+        {
+            "Location":"103.5,51.5,0.5",
+            "EntityIDs":["Sheep","Cow","Pig","Chicken","Rabbit"],
+            "Radius":45,
+            "YRadius":0,
+            "Quantity":20
+        },
+        {
+            "Location":"83.5,51.5,-100.5",
+            "EntityIDs":["Sheep","Leaf_Sheep","Cow","Pig","Chicken","Rabbit"],
+            "Radius":30,
+            "YRadius":0,
+            "Quantity":15
+        },
+        {
+            "Location":"0.5,51.5,103.5",
+            "EntityIDs":["Sheep","Cow","Pig","Chicken","Rabbit"],
+            "Radius":45,
+            "YRadius":0,
+            "Quantity":20
+        },
+        {
+            "Location":"-102.5,51.5,-205.5",
+            "EntityIDs":["Sheep","Cow","Pig","Chicken","Rabbit"],
+            "Radius":45,
+            "YRadius":0,
+            "Quantity":20
+        },
+        {
+            "Location":"103.5,51.5,103.5",
+            "EntityIDs":["Sheep","Cow","Pig","Chicken","Rabbit"],
+            "Radius":45,
+            "YRadius":0,
+            "Quantity":20
+        },
+        {
+            "Location":"-102.5,51.5,103.5",
+            "EntityIDs":["Sheep","Cow","Pig","Chicken","Rabbit", "Horse"],
+            "Radius":45,
+            "YRadius":0,
+            "Quantity":20
+        },
+        {
+            "Location":"0.5,51.5,206.5",
+            "EntityIDs":["Sheep","Cow","Pig","Chicken","Rabbit", "Horse"],
+            "Radius":45,
+            "YRadius":0,
+            "Quantity":20
+        },
+        {
+            "Location":"-103.5,51.5,206.5",
+            "EntityIDs":["Sheep","Cow","Pig","Chicken","Rabbit", "Horse"],
+            "Radius":45,
+            "YRadius":0,
+            "Quantity":20
+        },
+        {
+            "Location":"206.5,51.5,206.5",
+            "EntityIDs":["Sheep","Cow","Pig","Chicken","Rabbit"],
+            "Radius":45,
+            "YRadius":0,
+            "Quantity":20
+        },
+        {
+            "Location":"103.5,51.5,206.5",
+            "EntityIDs":["Sheep","Cow","Pig","Chicken","Rabbit"],
+            "Radius":45,
+            "YRadius":0,
+            "Quantity":20
+        },
+        {
+            "Location":"-205.5,51.5,206.5",
+            "EntityIDs":["Sheep","Cow","Pig","Chicken","Rabbit"],
+            "Radius":45,
+            "YRadius":0,
+            "Quantity":20
+        },
+        {
+            "Location":"231.5,44.5,19.5",
+            "EntityIDs":["Moss_Rock"],
+            "Radius":30,
+            "YRadius":0,
+            "Quantity":10
+        },
+        {
+            "Location":"60.5,2.5,-214.5",
+            "EntityIDs":["Cave_Spider"],
+            "Radius":15,
+            "YRadius":0,
+            "Quantity":10
+        },
+        {
+            "Location":"-205.5,51.5,-205.5",
+            "EntityIDs":["Zombie", "Skeleton", "Creeper", "Spider", "Rock"],
+            "Radius":45,
+            "YRadius":30,
+            "Quantity":20,
+            "RequiredBlocks":["Stone Block"]
+        },
+        {
+            "Location":"103.5,50.5,-205.5",
+            "EntityIDs":["Zombie", "Skeleton", "Creeper", "Spider", "Rock"],
+            "Radius":45,
+            "YRadius":50,
+            "Quantity":30,
+            "RequiredBlocks":["Stone Block"]
+        },
+        {
+            "Location":"62.5,2.5,-215.5",
+            "EntityIDs":["Arachnid_Keeper"],
+            "Radius":5,
+            "YRadius":0,
+            "Quantity":1,
+            "Cooldown":30
+        },
+        {
+            "Location":"213.5,30.5,11.5",
+            "EntityIDs":["Vine_Monstrosity"],
+            "Radius":5,
+            "YRadius":0,
+            "Quantity":1,
+            "Cooldown":60
+        },
+        {
+            "Location":"-205.5,70.5,-102.5",
+            "EntityIDs":["Pigeon"],
+            "Radius":45,
+            "YRadius":25,
+            "Quantity":15,
+            "RequiredBlocks":["Jungle Leaf"]
+        },
+        {
+            "Location":"-205.5,30,-102.5",
+            "EntityIDs":["Ocelot", "Wolf", "Angry_Tree", "Ocelot", "Wolf", "Rhino", "Angry_Tree"],
+            "Radius":45,
+            "YRadius":15,
+            "Quantity":25
+        },
+        {
+            "Location":"-205.5,51.5,-102.5",
+            "EntityIDs":["Ocelot", "Wolf", "Angry_Tree", "Leaf_Sheep", "Leaf_Sheep"],
+            "Radius":45,
+            "YRadius":1,
+            "Quantity":15
+        },
+        {
+            "Location":"206.5,70.5,-205.5",
+            "EntityIDs":["Pigeon"],
+            "Radius":45,
+            "YRadius":25,
+            "Quantity":15,
+            "RequiredBlocks":["Jungle Leaf"]
+        },
+        {
+            "Location":"206.5,51.5,-205.5",
+            "EntityIDs":["Ocelot", "Wolf", "Angry_Tree", "Leaf_Sheep", "Leaf_Sheep"],
+            "Radius":45,
+            "YRadius":1,
+            "Quantity":15
+        },
+        {
+            "Location":"176.5,51.5,-235.5",
+            "EntityIDs":["Jungle_Key_Guardian"],
+            "Radius":5,
+            "YRadius":1,
+            "Quantity":1
         }
     ]
 }

@@ -1,0 +1,11 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Raw Beef"}],
+    "Display_Name":"<lime>Enchanted Raw Beef",
+    "Rarity":2,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [],
+    "isReforgeable":false,
+    "Glow":true
+}

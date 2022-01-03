@@ -1,0 +1,64 @@
+{
+    "Item":[
+        {
+            "Vanilla":false,
+            "ID":"-1517874300,827149220,-1402669482,-1365007875",
+            "Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGViMmU0ZGIzYmNmYjA1MDNmMWZmZmIzMzk4ODhlNWQ0MzIzOThiMjc2OTljNWExYTFjZDgwNzljOGQ5N2QifX19"
+        }
+    ],
+    "Display_Name":"<orange>Ocelot {@nature}",
+    "PetID":"Ocelot",
+    "Rarity":5,
+    "Class":"Pet",
+    "Type":"Pet",
+    "Traits": ["Nature"],
+    "Stats": [
+        {
+        "CD":100
+        }
+    ],
+    "AbilityCount":1,
+    "Abilities": [
+        {
+            "ID":"Hunt",
+            "Trigger":0,
+            "Description": [
+                "&6Pet Ability: The Hunt &e&lPASSIVE",
+                "Your ocelot pet provides moral support,",
+                "increasing the accuracy of your critical",
+                "attacks, granting you &9100 Crit Damage"
+            ]
+        },
+        {
+            "ID":"Swipe",
+            "AbilityName":"Swipe",
+            "Trigger":2,
+            "Damage":10,
+            "Intelligence_Scaling":0.1,
+            "Cooldown":5,
+            "Mana_Cost":50,
+            "Description": [
+                "&6Pet Ability: Swipe &e&lRIGHT CLICK",
+                "Your ocelot pet takes &a3 &7swipes",
+                "directly in front of you, raking",
+                "its sharp claws across everything",
+                "within its range, dealing &c{Damage} &cDamage&7.",
+                "&bTarget {@Target} &b[{@ice}]",
+                "&a10% Barrier Breaker {@Barrier_Breaker}"
+            ],
+            "Effects":"Target-Ice,Barrier_Breaker-10"
+        },
+        {
+            "ID":"Prowl",
+            "Trigger":0,
+            "Description": [
+                "&6Pet Ability: On The Prowl &e&lPASSIVE",
+                "Your ocelot pet increases the damage",
+                "of your first strike on a mob by &a100%"
+            ]
+        } 
+    ],
+    "isReforgeable":false,
+    "Glow":false,
+    "Combat":13
+}

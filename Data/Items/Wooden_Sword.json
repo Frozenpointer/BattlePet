@@ -1,5 +1,5 @@
 {
-    "Item":[{"Vanilla":true,"ID":"Stick"}],
+    "Item":[{"Vanilla":true,"ID":"Wooden Sword"}],
     "Display_Name":"<white>Wooden Sword {@traitless}",
     "Rarity":1,
     "Class":"Weapon",

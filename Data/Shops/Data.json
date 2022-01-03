@@ -1,19 +1,85 @@
 {
+    "Mapping": [
+        {
+            "Armorsmith":1,
+            "Weaponsmith":2,
+            "Pet_Collector_Plains":3,
+            "Refiner":4,
+            "Cave_Armor_Trader":5,
+            "Reaper":6,
+            "Cave_Sword_Trader":7,
+            "Plains_Pet_Upgrader":9,
+            "Sewer_Dweller":10,
+            "Spider_Queen":11,
+            "Tribesman":12
+        },
+        {
+            "Starter_Sheep_Pet":8
+        }
+    ],
+    "Claim": [
+        {
+            "ID":"Starter_Sheep_Pet",
+            "Title":"&8Shepherd",
+            "ClaimID":"Sheep_Pet_Common",
+            "Amount":1
+        }
+    ],
     "NPC": [
         {
-            "ID":"Soul_Eater",
-            "Title":"&8Soul Eater",
+            "ID":"Reaper",
+            "Title":"&8Grim Reaper",
             "Trades":["Soul_Gem"]
+        },
+        {
+            "ID":"Pet_Collector_Plains",
+            "Title":"&8Animal Pet Collector",
+            "Trades":["Blue_Flower"]
         },
         {
             "ID":"Refiner",
             "Title":"Refiner",
-            "Trades":["Enchanted_Wool","Enchanted_Raw_Mutton","Enchanted_Leather","Enchanted_Rabbit_Hide","Enchanted_Feather","Enchanted_Gunpowder","Enchanted_String","Enchanted_Spider_Eye","Enchanted_Rotten_Flesh"]
+            "Trades":["Enchanted_Wool","Enchanted_Raw_Mutton","Enchanted_Leaves","Enchanted_Pork","Enchanted_Raw_Beef","Enchanted_Leather","Enchanted_Rabbit_Hide","Enchanted_Feather","Enchanted_Gunpowder","Enchanted_String","Enchanted_Spider_Eye","Enchanted_Rotten_Flesh","Enchanted_Bone","Enchanted_Wolf_Teeth","Enchanted_Ivory","Enchanted_Armor_Plate"]
         },
         {
             "ID":"Armorsmith",
             "Title":"&7Armorsmith",
-            "Trades":["Villager_Chestplate","Villager_Leggings","Leather_Helmet","Leather_Chestplate","Leather_Leggings","Leather_Boots","Feather_Cap","Bunny_Boots","Pork_Leggings","Wool_Helmet","Wool_Chestplate","Wool_Leggings","Wool_Boots","Wool_Helmet_Upgrade","Wool_Chestplate_Upgrade","Wool_Leggings_Upgrade","Wool_Boots_Upgrade"]
-        }
+            "Trades":["Villager_Chestplate","Villager_Leggings","Leather_Helmet","Leather_Chestplate","Leather_Leggings","Leather_Boots","Feather_Cap","Bunny_Boots","Pork_Leggings","Wool_Helmet","Wool_Chestplate","Wool_Leggings","Wool_Boots","Wool_Helmet_Upgrade","Wool_Chestplate_Upgrade","Wool_Leggings_Upgrade","Wool_Boots_Upgrade","Fairy_Wings_Upgrade","Flower_Chestplate"]
+        },
+        {
+            "ID":"Weaponsmith",
+            "Title":"&7Weaponsmith",
+            "Trades":["Wooden_Sword","Sharp_Branch","Edible_Mace","Feather_Sword","Vine_Sword"]
+        },
+        {
+            "ID":"Cave_Armor_Trader",
+            "Title":"&7Cave Dweller",
+            "Trades":["Rock_Sword","Zombie_Sword","Moonstone_Sword","Sapphire_Sword","Topaz_Sword"]
+        },
+        {
+            "ID":"Cave_Sword_Trader",
+            "Title":"&7Cave Dweller",
+            "Trades":["Zombie_Chestplate","Bone_Chestplate","Polished_Bone_Chestplate","Spider_Helmet","Tarantula_Helmet","Creeper_Pants","Zombie_Heart"]
+        },
+        {
+            "ID":"Plains_Pet_Upgrader",
+            "Title":"&7Pet Trainer",
+            "Trades":["Sheep_Pet_Upgrade_Uncommon","Cow_Pet_Upgrade_Uncommon","Rabbit_Pet_Upgrade_Uncommon","Chicken_Pet_Upgrade_Uncommon","Sheep_Pet_Upgrade_Rare","Cow_Pet_Upgrade_Rare","Pig_Pet_Upgrade_Rare","Rabbit_Pet_Upgrade_Rare","Chicken_Pet_Upgrade_Rare","Sheep_Pet_Upgrade_Epic","Cow_Pet_Upgrade_Epic","Pig_Pet_Upgrade_Epic","Rabbit_Pet_Upgrade_Epic","Chicken_Pet_Upgrade_Epic"]
+        },
+        {
+            "ID":"Sewer_Dweller",
+            "Title":"&2Sewer Dweller",
+            "Trades":["Marimo_Pet_Common","Marimo_Pet_Uncommon","Marimo_Pet_Rare"]
+        },
+        {
+            "ID":"Spider_Queen",
+            "Title":"&5Spider Queen",
+            "Trades":["Black_Widow_Helmet","Fang_Of_Demise","Cave_Spider_Pet_Upgrade_Uncommon","Cave_Spider_Pet_Upgrade_Rare","Cave_Spider_Pet_Upgrade_Epic"]
+        },
+        {
+            "ID":"Tribesman",
+            "Title":"&2Tribesman",
+            "Trades":["Poison_Dart_Frog_Pet_Evolution","Poultice_Of_Fullness_Upgrade","Rhino_Chestplate","Ivory_Reinforced_Polished_Bone_Chestplate","Mastiff_Helmet","Mastiff_Chestplate","Mastiff_Leggings","Mastiff_Boots","Pooch_Sword","Doge_Sword"]
+        }  
     ]
 }

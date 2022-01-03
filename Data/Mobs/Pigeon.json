@@ -1,0 +1,30 @@
+{
+    "Entity_Type":"Zombie",
+    "Display_Name":"&3Pigeon {@nature}",
+    "Level":1,
+    "Traits":["Nature"],
+    "Stats":[{"Health":10}],
+    "Equipment": [
+        {
+            "HELMET": [{
+                "ITEM":"Head", 
+                "ID":"758729681,441927558,-1726854037,-1179276076", 
+                "Texture":"ewogICJ0aW1lc3RhbXAiIDogMTY0MTE4MTI2NjY1OSwKICAicHJvZmlsZUlkIiA6ICJkMmM2YjQyZjFhNTc0Nzg2OTkxMjRjNmJiOWI1YWNkNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJmcm96ZW5wb2ludGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UzNDEzODdjMWY3YTIxYzhiMThhNTU5MzhhNGYyOWYxMzNmNmI2OWRmMGZlNTkwNGU5NzAzMzkwZmMwMGFkZjIiCiAgICB9CiAgfQp9"
+            }]
+        }
+    ],
+    "Invisible":true,
+    "Dinnerbone":true,
+    "Silent":true,
+    "NoAI":true,
+    "Drops": [
+        {"ID":"Feather", "Chance":100, "Amount":[1, 2]},
+        {"ID":"Ender_Berry", "Chance":0.5, "Amount":[1]},
+        {"ID":"Pigeon_Pet_Common", "Chance":1, "Amount":[1]},
+        {"ID":"Pigeon_Pet_Uncommon", "Chance":0.25, "Amount":[1]},
+        {"ID":"Pigeon_Pet_Rare", "Chance":0.1, "Amount":[1]},
+        {"ID":"Pigeon_Pet_Epic", "Chance":0.01, "Amount":[1]},
+        {"ID":"Pigeon_Pet_Legendary", "Chance":0.001, "Amount":[1]}
+    ],
+    "Combat_XP":1
+}

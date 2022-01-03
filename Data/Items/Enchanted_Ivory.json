@@ -1,0 +1,11 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Copper Ingot"}],
+    "Display_Name":"<lime>Enchanted Ivory",
+    "Rarity":2,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [],
+    "isReforgeable":false,
+    "Glow":true
+}

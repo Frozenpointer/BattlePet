@@ -1,8 +1,8 @@
 {
     "Item":[
         {
-            "Vanilla":"Texture",
-            "ID":"Skeleton_Head"
+            "Vanilla":true,
+            "ID":"Skeleton Head"
         }
     ],
     "Display_Name":"<orange>Skeleton {@traitless}",
@@ -31,19 +31,21 @@
         },
         {
             "ID":"Bone_Toss",
+            "AbilityName":"Deadly Bone",
             "Trigger":2,
-            "Damage":300,
+            "Damage":500,
             "Cooldown":30, 
             "Mana_Cost":100,
             "Soul_Cost":1,
-            "Intelligence_Scaling":0.3,
+            "Intelligence_Scaling":0.4,
             "Description": [
                 "&6Pet Ability: Deadly Bone &e&lRIGHT CLICK", 
                 "Throw a very heavy bone projectile,",
-                "dealing massive damage on hit.",
+                "dealing &c{Damage} &cDamage &7on hit.",
                 "&ePiercing {@Piercing}",
                 "&cMassive Damage {@Massive_Damage} &cto &aNature {@nature}"
-            ]
+            ],
+            "Effects":"Massive_Damage-Nature" 
         },
         {
             "ID":"Headshot",
@@ -57,5 +59,6 @@
         }  
     ],
     "isReforgeable":false,
-    "Glow":false
+    "Glow":false,
+    "Combat":3
 }

@@ -25,21 +25,25 @@
             ]
         },
         {
-        "ID":"Egg_Shotgun",
-        "AbilityName":"Egg Shotgun",
-        "Trigger":2,
-        "Damage":20,
-        "Cooldown":4,
-        "Mana_Cost":40,
-        "Intelligence_Scaling":0.2,
-        "Description": [
-            "&6Pet Ability: Egg Shotgun &e&lRIGHT CLICK",
-            "Shoot &a10 &7eggs in a small spread",
-            "at a low velocity, each one dealing",
-            "&c{Damage} &cDamage"
-        ]
-        }
+            "ID":"Egg_Sniper",
+            "AbilityName":"Egg Sniper",
+            "Trigger":2,
+            "Damage":20,
+            "Cooldown":3,
+            "Mana_Cost":40,
+            "Intelligence_Scaling":0.3,
+            "Description": [
+                "&6Pet Ability: Egg Sniper &e&lRIGHT CLICK",
+                "Shoot &a1 &7egg with a small spread",
+                "at a high velocity, which deals",
+                "&c{Damage} &cDamage &7on hit.",
+                "Damage increases with distance",
+                "travelled. &eShift &7for reduced",
+                "bullet spread."
+            ]
+            }
     ],
     "isReforgeable":false,
-    "Glow":false
+    "Glow":false,
+    "Combat":1
 }

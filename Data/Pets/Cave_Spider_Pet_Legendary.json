@@ -1,0 +1,67 @@
+{
+    "Item":[
+        {
+            "Vanilla":false,
+            "ID":"329792534,1029916190,-1715995722,-24110147",
+            "Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjA0MGM2MTYyYjY3Y2Y3NWQ4OTE1NDdkNzRhNjc5YmNjMGRlOGFkZTEzOTNiNDg3NGY1NGE3ZDRiNzdkMTk4NiJ9fX0="
+        }
+    ],
+    "Display_Name":"<orange>Cave Spider {@traitless}",
+    "PetID":"Cave_Spider",
+    "Rarity":5,
+    "Class":"Pet",
+    "Type":"Pet",
+    "Traits": ["Traitless"],
+    "Stats": [
+        {
+            "SPEED":15
+        }
+    ],
+    "AbilityCount":3,
+    "Abilities": [
+        {
+            "ID":"Spinnerette",
+            "AbilityName":"Spinnerette",
+            "Trigger":2,
+            "Damage":180,
+            "Cooldown":5,
+            "Mana_Cost":80,
+            "Soul_Cost":0,
+            "Intelligence_Scaling":0.35,
+            "Description": [
+                "&6Pet Ability: Spinnerette &e&lRIGHT CLICK",
+                "Your spider spins up a ball of webs,",
+                "that deals &c{Damage} &cDamage &7to enemies",
+                "&b50% 5s Slow {@Slow}"
+            ],
+            "Effects":"Slow-50-5"
+        },
+        {
+            "ID":"Web_Shield",
+            "AbilityName":"Web Shield",
+            "Trigger":1,
+            "Cooldown":60,
+            "Mana_Cost":100,
+            "Soul_Cost":0,
+            "Description": [
+                "&6Pet Ability: Web Shield &e&lLEFT CLICK",
+                "Your spider spins up a thick web coating,",
+                "that grants you &e140❤ &7for &a15 seconds",
+                "until which is disintegrates, leaving you",
+                "open to attacks again."
+            ]
+        },
+        {
+            "ID":"Arachnid",
+            "Trigger":0,
+            "Description": [
+                "&6Pet Ability: Arachnid &e&lPASSIVE",
+                "Your cave spider grants you a boost",
+                "increasing your &fSpeed &7by &f15"
+            ]
+        }
+    ],
+    "isReforgeable":false,
+    "Glow":false,
+    "Combat":7
+}

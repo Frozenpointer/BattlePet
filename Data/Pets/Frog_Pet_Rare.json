@@ -25,7 +25,7 @@
             "Description": [
                 "&6Pet Ability: Boing &e&lPASSIVE",
                 "Your frog pet grants you",
-                "permanent &aJump Boost II"
+                "permanent &aJump Boost I"
             ]
         },
         {
@@ -39,5 +39,6 @@
         }
     ],
     "isReforgeable":false,
-    "Glow":false
+    "Glow":false,
+    "Combat":5
 }

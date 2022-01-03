@@ -1,0 +1,11 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Dandelion"}],
+    "Display_Name":"<yellow>Yellow Flower",
+    "Rarity":1,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [],
+    "isReforgeable":false,
+    "Glow":false
+}

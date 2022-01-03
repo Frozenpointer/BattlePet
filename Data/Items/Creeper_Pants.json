@@ -10,7 +10,8 @@
         {
             "HP":44,
             "DEF":44,
-            "SPEED":4
+            "SPEED":4,
+            "INT":44
         }
     ],
     "isReforgeable":true,

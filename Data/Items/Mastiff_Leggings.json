@@ -1,0 +1,20 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Golden Leggings"}],
+    "Display_Name":"<indigo>Mastiff Leggings {@blood}",
+    "Rarity":3,
+    "Class":"Armor",
+    "Type":"Leggings",
+    "Traits": ["Blood"],
+    "Stats": [
+        {
+            "HP":280,
+            "DEF":-1000,
+            "STR":20,
+            "CD":20,
+            "FERO":2
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false,
+    "Series":3
+}

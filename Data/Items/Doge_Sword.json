@@ -1,0 +1,22 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Wooden Sword"}],
+    "Display_Name":"<purple>Doge Sword {@blood}",
+    "Rarity":4,
+    "Class":"Weapon",
+    "Type":"Sword",
+    "Traits": ["Blood"],
+    "Stats": [
+        {
+            "DMG":90,
+            "STR":20,
+            "FERO":5
+        }
+    ],
+    "Lore": [
+        "&c3% Savage Blow {@Savage_Blow}"
+    ],
+    "isReforgeable":true,
+    "Glow":true,
+    "Series":3,
+    "Effects":"Savage_Blow-3"
+}

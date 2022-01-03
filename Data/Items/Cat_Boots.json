@@ -1,0 +1,19 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Leather Boots"}],
+    "Display_Name":"<lime>Ocelot Boots {@nature}",
+    "Rarity":2,
+    "Class":"Armor",
+    "Type":"Boots",
+    "Color":"FFFFAA",
+    "Traits": ["Nature"],
+    "Stats": [
+        {
+            "HP":25,
+            "SPEED":15,
+            "FERO":1
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false,
+    "Series":3
+}

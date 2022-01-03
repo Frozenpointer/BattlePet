@@ -1,0 +1,52 @@
+{
+    "Item":[
+        {
+            "Vanilla":false,
+            "ID":"-1757923717,853100334,-1871047921,1403562707",
+            "Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGMzZGQ5ODRiYjY1OTg0OWJkNTI5OTQwNDY5NjRjMjI3MjVmNzE3ZTk4NmIxMmQ1NDhmZDE2OTM2N2Q0OTQifX19"
+        }
+    ],
+    "Display_Name":"<indigo>Wolf {@blood}",
+    "PetID":"Wolf",
+    "Rarity":3,
+    "Class":"Pet",
+    "Type":"Pet",
+    "Traits": ["Blood"],
+    "Stats": [
+        {
+        "FERO":3
+        }
+    ],
+    "AbilityCount":2,
+    "Abilities": [
+        {
+            "ID":"Hunt",
+            "Trigger":0,
+            "Description": [
+                "&6Pet Ability: The Hunt &e&lPASSIVE",
+                "Your wolf pet gets excited by the smell",
+                "of blood, granting you &c3 Ferocity"
+            ]
+        },
+        {
+            "ID":"Pounce",
+            "AbilityName":"Pounce",
+            "Trigger":2,
+            "Damage":200,
+            "Cooldown":15, 
+            "Mana_Cost":50,
+            "Intelligence_Scaling":0.3,
+            "Description": [
+                "&6Pet Ability: Pounce &e&lRIGHT CLICK",
+                "Your wolf pet pounces forward, colliding",
+                "with an enemy deals &c{Damage} &cDamage",
+                "&c10% Savage Blow {@Savage_Blow}",
+                "&cMassive Damage {@Massive_Damage} &cto &aNature {@nature}"
+            ],
+            "Effects":"Savage_Blow-10,Massive_Damage-Nature"
+        }
+    ],
+    "isReforgeable":false,
+    "Glow":false,
+    "Combat":14
+}

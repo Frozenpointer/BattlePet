@@ -1,0 +1,5 @@
+{
+    "ID": "Flower_Chestplate",
+    "Amount":1,
+    "Items": [{"ID":"Yellow_Flower","Amount":1},{"ID":"Red_Flower","Amount":1},{"ID":"Blue_Flower","Amount":1}]
+}

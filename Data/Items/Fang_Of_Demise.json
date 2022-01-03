@@ -1,0 +1,18 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Gold Sword"}],
+    "Display_Name":"<indigo>Fang Of Demise {@blood}",
+    "Rarity":3,
+    "Class":"Weapon",
+    "Type":"Sword",
+    "Traits": ["Blood"],
+    "Stats": [
+        {
+            "DMG":25,
+            "STR":25,
+            "CD":200
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false,
+    "Series":2
+}

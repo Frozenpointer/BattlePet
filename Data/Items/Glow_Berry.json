@@ -1,0 +1,14 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Glow Berries"}],
+    "Display_Name":"<indigo>Glow Berries",
+    "Rarity":3,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [
+        "A mystical fruit that glows",
+        "in the dark somehow."
+    ],
+    "isReforgeable":false,
+    "Glow":true
+}

@@ -4,6 +4,7 @@
     "Level":25,
     "Traits":["Nature"],
     "Stats":[{"Health":22222,"Defense":100,"Damage":50}],
+    "Knockback":true,
     "Function":"Vine_Monstrosity",
     "Equipment": [
         {
@@ -17,5 +18,6 @@
         {"ID":"Snake_Vine", "Chance":100, "Amount":[1, 2]}
     ],
     "Immunities": ["Knockback"],
-    "Invisible":true
+    "Invisible":true,
+    "Combat_XP":200
 }

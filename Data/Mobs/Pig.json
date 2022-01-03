@@ -11,5 +11,6 @@
         {"ID":"Pig_Pet_Rare", "Chance":0.5, "Amount":[1]},
         {"ID":"Pig_Pet_Epic", "Chance":0.1, "Amount":[1]},
         {"ID":"Pig_Pet_Legendary", "Chance":0.01, "Amount":[1]}
-    ]
+    ],
+    "Combat_XP":1
 }

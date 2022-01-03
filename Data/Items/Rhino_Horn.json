@@ -1,0 +1,17 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Iron Shovel"}],
+    "Display_Name":"<lime>Rhino Horn {@nature}",
+    "Rarity":2,
+    "Class":"Weapon",
+    "Type":"Sword",
+    "Traits": ["Nature"],
+    "Stats": [
+        {
+            "DMG":70,
+            "AS":-25
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false,
+    "Series":2
+}

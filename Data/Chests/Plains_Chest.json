@@ -17,6 +17,24 @@
             "Stack_Size":[4, 8]
         },
         {
+            "Item":"Raw_Pork",
+            "Chance":50,
+            "Count":[1, 3],
+            "Stack_Size":[4, 8]
+        },
+        {
+            "Item":"Raw_Mutton",
+            "Chance":50,
+            "Count":[1, 3],
+            "Stack_Size":[4, 8]
+        },
+        {
+            "Item":"Raw_Beef",
+            "Chance":50,
+            "Count":[1, 3],
+            "Stack_Size":[4, 8]
+        },
+        {
             "Item":"Rabbit_Hide",
             "Chance":50,
             "Count":[1, 3],
@@ -35,22 +53,28 @@
             "Stack_Size":[1, 3]
         },
         {
+            "Item":"Emerald",
+            "Chance":10,
+            "Count":[1, 2],
+            "Stack_Size":[1, 1]
+        },
+        {
+            "Item":"Wishing_Well_Coin",
+            "Chance":20,
+            "Count":[1, 2],
+            "Stack_Size":[1, 1]
+        },    
+        {
             "Item":"Soul",
             "Chance":5,
             "Count":[1, 2],
             "Stack_Size":[1, 2]
         },
         {
-            "Item":"Emerald",
-            "Chance":5,
-            "Count":[1, 2],
-            "Stack_Size":[1]
-        },
-        {
-            "Item":"Wishing_Well_Coin",
-            "Chance":20,
-            "Count":[1, 2],
-            "Stack_Size":[1]
+            "Item":"Red_Flower",
+            "Chance":1,
+            "Count":[1, 1],
+            "Stack_Size":[1, 1]
         }
     ]
 }
