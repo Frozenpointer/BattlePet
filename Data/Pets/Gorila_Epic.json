@@ -1,0 +1,52 @@
+{
+    "Item":[
+        {
+            "Vanilla":false,
+            "ID":"1883278579,1778532824,-2002520879,-1141378628",
+            "Texture":"Texture of the pet head"
+        }
+    ],
+    "Display_Name":"<purple>Gorilla {@nature}",
+    "PetID":"Gorilla",
+    "Rarity":4,
+    "Class":"Pet",
+    "Type":"Pet",
+    "Traits": ["nature"],
+    "Stats": [
+        {
+            "STR":90,
+            "HP":50           
+        }
+    ],
+    "AbilityCount":2,
+    "Abilities": [
+        {
+            "ID":"Jungles_Might",
+            "AbilityName":"Jungles Might",
+            "Trigger":0,
+            "Description": [
+                "&6Pet Ability: Jungles Might &e&lPASSIVE",
+                "&7Your Gorilla strengthens you, giving you",
+                "&760 strength and 10% bonus damage against",
+                "&7blood mobs."
+            ]
+        },
+        {
+            "ID":"Gorilla_Smash",
+            "AbilityName":"Gorilla Smash",
+            "Trigger":2,
+            "Damage":200,
+            "Cooldown":15, 
+            "Mana_Cost":100,
+            "Intelligence_Scaling":0.2,
+            "Description": [
+                "&6Pet Ability: Gorilla Smash &e&lRIGHT CLICK", 
+                "Your gorrilla smashes all mobs in front of",
+                "you for &c{damage} &cdamage",
+                "&c10s 45% Weaken {@Weaken}"
+            ]                                              
+        }
+    ],
+    "isReforgeable":false,
+    "Glow":false
+}
