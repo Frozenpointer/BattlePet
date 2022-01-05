@@ -1,0 +1,16 @@
+{
+    "Entity_Type":"Ocelot",
+    "Display_Name":"&aOcelot {@nature}",
+    "Level":10,
+    "Traits":["Nature"],
+    "Stats":[{"Health":500,"Defense":200}],
+    "Drops": [ 
+        {"ID":"Cat_Boots", "Chance":0.5, "Amount":[1]}, 
+        {"ID":"Ocelot_Pet_Common", "Chance":1, "Amount":[1]}, 
+        {"ID":"Ocelot_Pet_Uncommon", "Chance":0.5, "Amount":[1]},
+        {"ID":"Ocelot_Pet_Rare", "Chance":0.1, "Amount":[1]},
+        {"ID":"Ocelot_Pet_Epic", "Chance":0.02, "Amount":[1]},
+        {"ID":"Ocelot_Pet_Legendary", "Chance":0.005, "Amount":[1]}
+    ],
+    "Combat_XP":3
+}

@@ -1,0 +1,25 @@
+{
+    "Entity_Type":"Zombie",
+    "Display_Name":"&5Arachnid Keeper {@traitless}",
+    "Level":25,
+    "Traits":["Traitless"],
+    "Stats":[{"Health":10000,"Defense":200,"Damage":50,"Speed":2}],
+    "Knockback":true,
+    "Equipment": [
+        {
+            "HELMET": [{"ITEM":"Head","ID":"-652510459,112936383,-1921887104,-203888108","Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWY3ZTgyNDQ2ZmFiMWU0MTU3N2JhNzBhYjQwZTI5MGVmODQxYzI0NTIzMzAxMWYzOTQ1OWFjNmY4NTJjODMzMSJ9fX0="}],
+            "CHESTPLATE": [{"ITEM":"Leather Chestplate","Color":"000000"}],
+            "LEGGINGS": [{"ITEM":"Leather Leggings","Color":"000000"}],
+            "BOOTS": [{"ITEM":"Leather Boots","Color":"000000"}],
+            "WEAPON": [{"ITEM":"Cobweb"}]
+            }
+        ],
+    "Drops": [
+        {"ID":"Silky_Lichen", "Chance":50, "Amount":[1]},
+        {"ID":"Poultice_Of_Fullness", "Chance":5, "Amount":[1]}
+    ],
+    "Effects":"Slow-50-5",
+    "Immunities": ["Slow"],
+    "Invisible":true,
+    "Combat_XP":100
+}

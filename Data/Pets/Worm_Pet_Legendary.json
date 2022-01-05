@@ -14,7 +14,7 @@
     "Traits": ["Traitless"],
     "Stats": [
         {
-            "HP":200,
+            "HP":100,
             "DEF":100
         }
     ],
@@ -58,10 +58,11 @@
                 "Your worm confers some of its",
                 "regenerative abilities to you",
                 "increasing your regeneration by",
-                "&a10% &7and giving you &c200 Health"
+                "&a10% &7and giving you &c100 Health"
             ]
         }
     ],
     "isReforgeable":false,
-    "Glow":false
+    "Glow":false,
+    "Combat":10
 }

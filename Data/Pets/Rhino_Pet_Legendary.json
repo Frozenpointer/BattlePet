@@ -1,0 +1,62 @@
+{
+    "Item":[
+        {
+            "Vanilla":false,
+            "ID":"683807840,-508804782,-1548893603,931066416",
+            "Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzM2NzNjZTA3MTllMWQ2NmMwZWM3MDYxZjAzNDc5ODZlZWQ5ZTk1OTgwMzdiODhkMjM3MTZlYTdlZjRhODYzMyJ9fX0="
+        }
+    ],
+    "Display_Name":"<orange>Rhino {@nature}",
+    "PetID":"Rhino",
+    "Rarity":5,
+    "Class":"Pet",
+    "Type":"Pet",
+    "Traits": ["Nature"],
+    "Stats": [
+        {
+            "DEF":150,
+            "HP":150,
+            "STR":75,
+            "FERO":3
+        }
+    ],
+    "AbilityCount":3,
+    "Abilities": [
+        {
+            "ID":"Bulk",
+            "AbilityName":"Bulk",
+            "Trigger":0,
+            "Description": [
+                "&6Pet Ability: Massive Bulk &e&lPASSIVE",
+                "Your rhino pets lends you its massive",
+                "bulk to protect you, granting you",
+                "&a150 Defense"
+            ]
+        },
+        {
+            "ID":"Tank",
+            "AbilityName":"Tank",
+            "Trigger":0,
+            "Description": [
+                "&6Pet Ability: Tank &e&lPASSIVE",
+                "Your rhino pets lends you even more",
+                "of its massive bulk to protect you",
+                "granting you &c150 Health"
+            ]
+        },
+        {
+            "ID":"Mighty_Horn",
+            "AbilityName":"Mighty Horn",
+            "Trigger":0,
+            "Description": [
+                "&6Pet Ability: Mighty Horn &e&lPASSIVE",
+                "Your rhino pets uses its large horn",
+                "to aid you in battle, granting you",
+                "&675 Strength &7and &c3 Ferocity"
+            ]
+        }
+    ],
+    "isReforgeable":false,
+    "Glow":false,
+    "Combat":12
+}

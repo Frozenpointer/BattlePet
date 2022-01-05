@@ -1,8 +1,8 @@
 {
     "Item":[
         {
-            "Vanilla":"Texture",
-            "ID":"Skeleton_Head"
+            "Vanilla":true,
+            "ID":"Skeleton Head"
         }
     ],
     "Display_Name":"<lime>Skeleton {@traitless}",
@@ -31,5 +31,6 @@
         }
     ],
     "isReforgeable":false,
-    "Glow":false
+    "Glow":false,
+    "Combat":3
 }

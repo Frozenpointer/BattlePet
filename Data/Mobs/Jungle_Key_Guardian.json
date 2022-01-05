@@ -1,0 +1,19 @@
+{
+    "Entity_Type":"Zombie",
+    "Display_Name":"&2Jungle Key Guardian {@nature}",
+    "Level":25,
+    "Traits":["Nature"],
+    "Stats":[{"Health":10000,"Defense":100,"Damage":75}],
+    "Function":"Jungle_Guardian",
+    "Equipment": [
+        {
+            "HELMET": [{"ITEM":"Leather Helmet","Color":"00FF00"}],
+            "WEAPON": [{"ITEM":"Bone"}]
+            }
+        ],
+    "Drops": [
+        {"ID":"Jungle_Chest_Key", "Chance":100, "Amount":[1, 2]}
+    ],
+    "Effects":"Dissipate-25-100",
+    "Combat_XP":5
+}

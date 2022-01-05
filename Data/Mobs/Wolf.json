@@ -1,0 +1,19 @@
+{
+    "Entity_Type":"Wolf",
+    "Display_Name":"&cWolf {@blood}",
+    "Level":10,
+    "Traits":["Blood"],
+    "Stats":[{"Health":3000,"Damage":150}],
+    "Equipment": [{}],
+    "Attributes": [{"AngerTime":99999999}],
+    "Drops": [ 
+        {"ID":"Wolf_Teeth", "Chance":100, "Amount":[1, 5]}, 
+        {"ID":"Wolf_Pet_Common", "Chance":1, "Amount":[1]}, 
+        {"ID":"Wolf_Pet_Uncommon", "Chance":0.5, "Amount":[1]},
+        {"ID":"Wolf_Pet_Rare", "Chance":0.1, "Amount":[1]},
+        {"ID":"Wolf_Pet_Epic", "Chance":0.02, "Amount":[1]},
+        {"ID":"Wolf_Pet_Legendary", "Chance":0.005, "Amount":[1]}
+    ],
+    "Effects":"Savage_Blow-5",
+    "Combat_XP":5
+}

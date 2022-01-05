@@ -1,0 +1,12 @@
+{
+    "Item":[{"Vanilla":true,"ID":"green dye"}],
+    "Display_Name":"<lime>Silky Lichen",
+    "Rarity":2,
+    "Class":"Item",
+    "Type":"Item",
+    "Lore":[
+        "&8Very Silky"
+    ],
+    "isReforgeable":true,
+    "Glow":false
+}

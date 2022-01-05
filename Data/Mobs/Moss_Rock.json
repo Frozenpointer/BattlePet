@@ -18,5 +18,6 @@
     "Silent":true,
     "Drops": [
         {"ID":"Club_Moss", "Chance":100, "Amount":[1, 2]}
-    ]
+    ],
+    "Combat_XP":2.5
 }

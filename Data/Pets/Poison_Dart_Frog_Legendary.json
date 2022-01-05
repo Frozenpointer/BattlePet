@@ -1,0 +1,66 @@
+{
+    "Item":[
+        {
+            "Vanilla":false,
+            "ID":"2063139079,814032848,1404147199,-738930144",
+            "Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTE2NjdhNzVhMmUyNTgzZDg5YTMxZGIwODM4ZGMxZDg2MGY5ZWM1NjJmMDlkNTI2M2IzOWQwNzEzOGRjYzQifX19"
+        }
+    ],
+    "Display_Name":"<orange>Poison Dart Frog {@aquatic}",
+    "PetID":"Frog",
+    "Rarity":5,
+    "Class":"Pet",
+    "Type":"Pet",
+    "Traits": ["Aquatic"],
+    "Stats": [
+        {
+            "AS":15
+        }
+    ],
+    "AbilityCount":1,
+    "Abilities": [
+        {
+            "ID":"Springy_Legs",
+            "Trigger":0,
+            "Description": [
+                "&6Pet Ability: Boing &e&lPASSIVE",
+                "Your frog pet grants you",
+                "permanent &aJump Boost II"
+            ]
+        },
+        {
+            "ID":"Rapid_Strikes",
+            "Trigger":0,
+            "Description": [
+                "&6Pet Ability: Rapid Strikes &e&lPASSIVE",
+                "Your frog pet grants you",
+                "&e15 Attack Speed"
+            ]
+        },
+        {
+            "ID":"Poison_Glob",
+            "AbilityName":"Poison Glob",
+            "Trigger":2,
+            "Damage":200,
+            "Intelligence_Scaling":0.5,
+            "Cooldown":60,
+            "Mana_Cost":250,
+            "Soul_Cost":1,
+            "Description": [
+                "&6Pet Ability: Poison Glob &e&lRIGHT CLICK",
+                "Shoot out a glob of poison which splashes",
+                "onto the ground, creating a pool of poison",
+                "dealing &c{Damage} &cDamage &7to enemies caught",
+                "in the pool.",
+                "&bTarget {@Target} &a[{@nature}] &c[{@blood}]",
+                "&f5s Freeze {@Freeze}",
+                "&dLvl 1 Surge {@Surge}"
+            ],
+            "Effects":"Target-Nature-Blood,Freeze-100-5",
+            "SpecialEffects":"Surge-100-1"
+        } 
+    ],
+    "isReforgeable":false,
+    "Glow":false,
+    "Combat":10
+}

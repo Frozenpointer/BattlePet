@@ -1,0 +1,11 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Allium"}],
+    "Display_Name":"<purple>Purple Flower",
+    "Rarity":4,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [],
+    "isReforgeable":false,
+    "Glow":false
+}

@@ -1,0 +1,18 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Wooden Sword"}],
+    "Display_Name":"<indigo>Pooch Sword {@blood}",
+    "Rarity":3,
+    "Class":"Weapon",
+    "Type":"Sword",
+    "Traits": ["Blood"],
+    "Stats": [
+        {
+            "DMG":75,
+            "STR":10,
+            "FERO":5
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false,
+    "Series":3
+}

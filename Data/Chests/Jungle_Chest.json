@@ -1,0 +1,62 @@
+{
+    "Identification_Block":"Mossy Cobblestone Block",
+    "KeyID":"Jungle_Chest_Key",
+    "Display_Name":"&2Jungle Chest",
+    "Cooldown":300,
+    "Loot": [
+        {
+            "Item":"Ivory",
+            "Chance":50,
+            "Count":[1, 3],
+            "Stack_Size":[4, 8]
+        },
+        {
+            "Item":"Armor_Plate",
+            "Chance":50,
+            "Count":[1, 3],
+            "Stack_Size":[4, 8]
+        },
+        {
+            "Item":"Wolf_Teeth",
+            "Chance":50,
+            "Count":[1, 3],
+            "Stack_Size":[4, 8]
+        },
+        {
+            "Item":"Feather",
+            "Chance":50,
+            "Count":[1, 3],
+            "Stack_Size":[4, 8]
+        },
+        {
+            "Item":"Leaves",
+            "Chance":50,
+            "Count":[1, 3],
+            "Stack_Size":[4, 8]
+        },
+        {
+            "Item":"Corrupted_Gold",
+            "Chance":10,
+            "Count":[1, 2],
+            "Stack_Size":[1, 2]
+        },
+        {
+            "Item":"Glow_Berry",
+            "Chance":5,
+            "Count":[1, 1],
+            "Stack_Size":[1, 1]
+        },
+        {
+            "Item":"Spyglass",
+            "Chance":3,
+            "Count":[1, 1],
+            "Stack_Size":[1, 1]
+        },
+        {
+            "Item":"Frog_Evolution_Stone",
+            "Chance":0.02,
+            "Count":[1, 1],
+            "Stack_Size":[1, 1]
+        }
+    ]
+}

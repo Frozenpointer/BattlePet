@@ -1,0 +1,31 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Leather Boots"}],
+    "Display_Name":"<purple>Soul Boots {@spirit}",
+    "Rarity":4,
+    "Class":"Armor",
+    "Type":"Boots",
+    "Color":"DD00DD",
+    "Traits": ["Spirit"],
+    "Stats": [
+        {
+            "HP":-1,  
+            "MAGICFIND":3
+        }
+    ],
+    "AbilityCount":1,
+    "Abilities": [
+        {
+            "ID":"Soul_Harvester",
+            "Trigger":0,
+            "Description": [
+                "&6Item Ability: Soul Harvester &e&lPASSIVE",
+                "The dark energy filling these boots grants",
+                "you a small chance to get double souls when",
+                "collecting souls from killing mobs."
+            ]
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":true,
+    "Series":1
+}

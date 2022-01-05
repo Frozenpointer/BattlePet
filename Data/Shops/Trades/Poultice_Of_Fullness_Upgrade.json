@@ -1,0 +1,5 @@
+{
+    "ID": "Poultice_Of_Fullness_Upgrade",
+    "Amount":1,
+    "Items": [{"ID":"Poultice_Of_Fullness","Amount":1},{"ID":"Glow_Berry","Amount":4},{"ID":"Archelius_Berry","Amount":4},{"ID":"Ender_Berry","Amount":4}]
+}

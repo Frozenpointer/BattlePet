@@ -3,9 +3,10 @@
     "Display_Name":"&cCreeper {@traitless}",
     "Level":5,
     "Traits":["Traitless"],
-    "Stats":[{"Health":250,"Damage":40}],
-    "Function":"Cave_Creeper",
+    "Stats":[{"Health":250,"Damage":75}],
     "Equipment": [{}],
+    "Attributes": [{"Fuse":10000}],
+    "Function": "Cave_Creeper",
     "Drops": [
         {"ID":"Gunpowder", "Chance":100, "Amount":[1, 3]}, 
         {"ID":"Creeper_Pet_Common", "Chance":2, "Amount":[1]},
@@ -13,5 +14,6 @@
         {"ID":"Creeper_Pet_Rare", "Chance":0.5, "Amount":[1]},
         {"ID":"Creeper_Pet_Epic", "Chance":0.1, "Amount":[1]},
         {"ID":"Creeper_Pet_Legendary", "Chance":0.01, "Amount":[1]}
-    ]
+    ],
+    "Combat_XP":2
 }

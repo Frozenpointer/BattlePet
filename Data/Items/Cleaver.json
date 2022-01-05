@@ -1,0 +1,16 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Gold Sword"}],
+    "Display_Name":"<lime>Cleaver {@traitless}",
+    "Rarity":2,
+    "Class":"Weapon",
+    "Type":"Sword",
+    "Traits": ["Traitless"],
+    "Stats": [
+        {
+            "DMG":30
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false,
+    "Series":1
+}

@@ -1,0 +1,21 @@
+{
+    "Entity_Type":"Zombie",
+    "Display_Name":"&cAngry Tree {@nature}",
+    "Level":10,
+    "Traits":["Nature"],
+    "Stats":[{"Health":100,"Defense":100,"Barrier":150,"Damage":30}],
+    "Equipment": [{
+        "HELMET": [{"ITEM":"Jungle Leaves"}],
+        "CHESTPLATE": [{"ITEM":"Leather Chestplate"}],
+        "LEGGINGS": [{"ITEM":"Leather Leggings"}],
+        "BOOTS": [{"ITEM":"Leather Boots"}],
+        "WEAPON": [{"ITEM":"Jungle Sapling"}]
+    }],
+    "Drops": [
+        {"ID":"Leaves", "Chance":100, "Amount":[1, 3]}, 
+        {"ID":"Stick", "Chance":20, "Amount":[1]}, 
+        {"ID":"Archelius_Berry", "Chance":0.5, "Amount":[1]}
+    ],
+    "Effects":"Slow-10-2",
+    "Combat_XP":1.5
+}

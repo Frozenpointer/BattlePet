@@ -14,7 +14,7 @@
     "Traits": ["Nature"],
     "Stats": [
         {
-            "HP":250
+            "HP":200
         }
     ],
     "AbilityCount":2,
@@ -26,7 +26,7 @@
             "Description": [
                 "&6Pet Ability: Meatshield &e&lPASSIVE",
                 "Your cow pet acts as a meatshield,",
-                "granting you &c250 Health"
+                "granting you &c200 Health"
             ]
         },
         {
@@ -43,5 +43,6 @@
         }
     ],
     "isReforgeable":false,
-    "Glow":false
+    "Glow":false,
+    "Combat":1
 }

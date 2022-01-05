@@ -36,5 +36,6 @@
         }
     ],
     "isReforgeable":false,
-    "Glow":false
+    "Glow":false,
+    "Combat":3
 }

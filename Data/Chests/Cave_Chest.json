@@ -38,37 +38,37 @@
             "Item":"Moonstone",
             "Chance":10,
             "Count":[1, 2],
-            "Stack_Size":[1, 4]
+            "Stack_Size":[1, 2]
         },
         {
             "Item":"Sapphire",
             "Chance":5,
             "Count":[1, 2],
-            "Stack_Size":[1, 4]
+            "Stack_Size":[1, 2]
         },
         {
             "Item":"Topaz",
             "Chance":2.5,
             "Count":[1, 2],
-            "Stack_Size":[1, 4]
+            "Stack_Size":[1, 2]
         },
         {
             "Item":"Worm_Pet_Rare",
             "Chance":1,
-            "Count":[1],
-            "Stack_Size":[1]
+            "Count":[1, 1],
+            "Stack_Size":[1, 1]
         }, 
         {
             "Item":"Worm_Pet_Epic",
             "Chance":0.2,
-            "Count":[1],
-            "Stack_Size":[1]
+            "Count":[1, 1],
+            "Stack_Size":[1, 1]
         }, 
         {
             "Item":"Worm_Pet_Legendary",
             "Chance":0.04,
-            "Count":[1],
-            "Stack_Size":[1]
+            "Count":[1, 1],
+            "Stack_Size":[1, 1]
         }
     ]
 }

@@ -1,0 +1,19 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Leather Helmet"}],
+    "Display_Name":"<purple>Black Widow Helmet {@traitless}",
+    "Rarity":4,
+    "Class":"Armor",
+    "Type":"Helmet",
+    "Traits": ["Traitless"],
+    "Color":"000000",
+    "Stats": [
+        {
+            "DEF":150,
+            "STR":50,
+            "CD":50
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":true,
+    "Series":2
+}

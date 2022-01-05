@@ -1,0 +1,15 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Gold Ingot"}],
+    "Display_Name":"<indigo>Corrupted Gold",
+    "Rarity":3,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [
+        "Ancient gold cursed by a",
+        "dark wizard that once lived",
+        "in the Jungles."
+    ],
+    "isReforgeable":false,
+    "Glow":true
+}

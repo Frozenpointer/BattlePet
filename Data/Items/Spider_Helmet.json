@@ -8,8 +8,9 @@
     "Color":"090909",
     "Stats": [
         {
-            "STR":15,
-            "CD":10
+            "DEF":25,
+            "STR":5,
+            "CD":5
         }
     ],
     "isReforgeable":true,

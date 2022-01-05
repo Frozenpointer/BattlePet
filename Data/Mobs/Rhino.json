@@ -1,0 +1,19 @@
+{
+    "Entity_Type":"Ravager",
+    "Display_Name":"&aRhino {@nature}",
+    "Level":10,
+    "Traits":["Nature"],
+    "Stats":[{"Health":10000,"Defense":200,"Damage":100}],
+    "Equipment": [{}],
+    "Drops": [ 
+        {"ID":"Armor_Plate", "Chance":100, "Amount":[1, 3]},
+        {"ID":"Ivory", "Chance":100, "Amount":[1, 3]}, 
+        {"ID":"Rhino_Pet_Common", "Chance":1, "Amount":[1]}, 
+        {"ID":"Rhino_Pet_Uncommon", "Chance":0.5, "Amount":[1]},
+        {"ID":"Rhino_Pet_Rare", "Chance":0.25, "Amount":[1]},
+        {"ID":"Rhino_Pet_Epic", "Chance":0.1, "Amount":[1]},
+        {"ID":"Rhino_Pet_Legendary", "Chance":0.05, "Amount":[1]}
+    ],
+    "Effects":"Savage_Blow-10",
+    "Combat_XP":10
+}

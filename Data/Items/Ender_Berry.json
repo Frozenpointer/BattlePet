@@ -1,0 +1,9 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Chorus Fruit"}],
+    "Display_Name":"<indigo>Ender Berry",
+    "Rarity":3,
+    "Class":"Item",
+    "Type":"Item",
+    "isReforgeable":true,
+    "Glow":true
+}

@@ -1,0 +1,17 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Stone Sword"}],
+    "Display_Name":"<white>Rock Sword {@traitless}",
+    "Rarity":1,
+    "Class":"Weapon",
+    "Type":"Sword",
+    "Traits": ["Traitless"],
+    "Stats": [
+        {
+            "DMG":50,
+            "AS":-50
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":false,
+    "Series":2
+}

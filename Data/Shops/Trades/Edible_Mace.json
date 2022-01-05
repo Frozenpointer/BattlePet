@@ -1,0 +1,5 @@
+{
+    "ID": "Edible_Mace",
+    "Amount":1,
+    "Items": [{"ID":"Stick","Amount":1}, {"ID":"Enchanted_Raw_Mutton","Amount":2}, {"ID":"Enchanted_Pork","Amount":2}]
+}

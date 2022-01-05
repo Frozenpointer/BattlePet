@@ -32,12 +32,13 @@
                 "with a algae-borne herbicide, making the",
                 "next melee strike highly toxic to plants",
                 "&bTarget {@Target} &a[{@nature}]",
-                "&c10s Anti Healing {@Anti_Healing}",
+                "&c15s Anti Healing {@Anti_Healing}",
                 "&3Strong {@Strong} against &aNature {@nature}"
             ],
-            "Effects":"Anti_Healing-100-10"
+            "Effects":"Anti_Healing-100-15"
         } 
     ],
     "isReforgeable":false,
-    "Glow":false
+    "Glow":false,
+    "Combat":5
 }

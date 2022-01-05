@@ -1,0 +1,23 @@
+{
+    "Entity_Type":"Zombie",
+    "Display_Name":"&7Rock {@traitless}",
+    "Level":5,
+    "Traits":["Nature"],
+    "Stats":[{"Health":300,"Defense":100,"Damage":10,"Speed":-2}],
+    "Equipment": [
+        {
+            "HELMET": [{
+                "ITEM":"Head", 
+                "ID":"1536799079,-237831370,1528143143,-1322425822", 
+                "Texture":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTE1ZGNiMjJkMzJlZDEzOGUwMjQ5ZjhmZTE4YWU1YTRlNDIxNTIwYTZkYzU3NTZhNGI4NzQ5NDRmZDg3NTliIn19fQ=="
+            }]
+        }
+    ],
+    "Invisible":true,
+    "Dinnerbone":true,
+    "Silent":true,
+    "Drops": [
+        {"ID":"Rock", "Chance":100, "Amount":[1, 2]}
+    ],
+    "Combat_XP":2
+}

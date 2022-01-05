@@ -1,0 +1,11 @@
+{
+    "Item":[{"Vanilla":true,"ID":"purple dye"}],
+    "Display_Name":"<purple>Heart Of Spider",
+    "Rarity":4,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [],
+    "isReforgeable":false,
+    "Glow":true
+}

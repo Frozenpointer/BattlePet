@@ -1,0 +1,11 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Oak Leaves"}],
+    "Display_Name":"<lime>Enchanted Leaves",
+    "Rarity":2,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [],
+    "isReforgeable":false,
+    "Glow":true
+}

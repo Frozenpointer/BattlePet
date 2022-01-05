@@ -8,5 +8,6 @@
     "Drops": [
         {"ID":"Leather", "Chance":100, "Amount":[1, 3]}, 
         {"ID":"Horse_Boots", "Chance":1, "Amount":[1]}
-    ]
+    ],
+    "Combat_XP":1
 }

@@ -1,0 +1,11 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Blue Orchid"}],
+    "Display_Name":"<indigo>Blue Flower",
+    "Rarity":3,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [],
+    "isReforgeable":false,
+    "Glow":false
+}

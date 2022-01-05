@@ -1,0 +1,5 @@
+{
+    "ID": "Pig_Pet_Epic",
+    "Amount":1,
+    "Items": [{"ID":"Pig_Pet_Rare","Amount":1},{"ID":"Enchanted_Pork","Amount":16}]
+}

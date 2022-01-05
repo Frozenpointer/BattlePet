@@ -1,0 +1,5 @@
+{
+    "ID": "Poison_Dart_Frog_Legendary",
+    "Amount":1,
+    "Items": [{"ID":"Frog_Pet_Epic","Amount":1},{"ID":"Frog_Evolution_Stone","Amount":1},{"ID":"Silky_Lichen","Amount":8}]
+}

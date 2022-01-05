@@ -1,0 +1,5 @@
+{
+    "ID": "Rabbit_Pet_Uncommon",
+    "Amount":1,
+    "Items": [{"ID":"Rabbit_Pet_Common","Amount":1},{"ID":"Enchanted_Rabbit_Hide","Amount":1}]
+}

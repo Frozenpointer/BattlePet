@@ -1,0 +1,27 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Honeycomb"}],
+    "Display_Name":"<indigo>☤ Poultice Of Fullness {@nature}",
+    "Rarity":3,
+    "Class":"ARTIFACT",
+    "Type":"ARTIFACT",
+    "Traits": ["Nature"],
+    "AbilityCount":1,
+    "Abilities": [
+        {
+            "ID":"Sustenance",
+            "AbilityName":"Sustenance",
+            "Trigger":2,
+            "Cooldown":5,
+            "Mana_Cost":100,
+            "Description": [
+                "&6Item Ability: Sustenance &e&lRIGHT CLICK",
+                "You consume part of the poultice,",
+                "instantly granting you &a4 Hunger",
+                "&aBars &7and &a15 Saturation"
+            ]
+        }
+    ],
+    "isReforgeable":true,
+    "Glow":true,
+    "Series":2
+}

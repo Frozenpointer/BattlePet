@@ -1,0 +1,11 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Gold Ingot"}],
+    "Display_Name":"<lime>Metal Shard",
+    "Rarity":2,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [],
+    "isReforgeable":false,
+    "Glow":false
+}

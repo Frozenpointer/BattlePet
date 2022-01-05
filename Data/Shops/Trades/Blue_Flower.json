@@ -1,0 +1,5 @@
+{
+    "ID": "Blue_Flower",
+    "Amount":1,
+    "Items": [{"ID":"Sheep_Pet_Rare","Amount":1},{"ID":"Cow_Pet_Rare","Amount":1},{"ID":"Chicken_Pet_Rare","Amount":1},{"ID":"Pig_Pet_Rare","Amount":1},{"ID":"Rabbit_Pet_Rare","Amount":1}]
+}

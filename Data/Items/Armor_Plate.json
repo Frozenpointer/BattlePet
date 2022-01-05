@@ -1,0 +1,11 @@
+{
+    "Item":[{"Vanilla":true,"ID":"Raw Iron"}],
+    "Display_Name":"<white>Armor Plate",
+    "Rarity":1,
+    "Class":"Item",
+    "Type":"Item",
+    "Traits": ["NULL"],
+    "Lore": [],
+    "isReforgeable":false,
+    "Glow":false
+}
