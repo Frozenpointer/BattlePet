@@ -41,7 +41,7 @@
             "Intelligence_Scaling":0.2,
             "Description": [
                 "&6Pet Ability: Gorilla Smash &e&lRIGHT CLICK", 
-                "Your gorrilla smashes all mobs in front of",
+                "Your gorilla smashes all mobs in front of",
                 "you for &c{damage} &cdamage",
                 "&c10s 45% Weaken {@Weaken}"
             ]                                              
